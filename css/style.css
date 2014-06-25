@@ -1,0 +1,47 @@
+html, body, .container, .row { height: 100%; font-family:"Century Schoolbook Regular", 'Century Schoolbook', serif; font-weight:normal; font-style:normal; }
+h1 { text-transform: uppercase;}
+h2{ font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; letter-spacing: 3px; margin-bottom: 1em;}
+a {	color: #6201e7; }
+a:hover {color: #6201e7;}
+
+.full-width-container { width: 100%; }
+.col-md-6 {min-height: 100%;}
+.split { /*min-height: 100%; */}
+.fixed-overlay{	z-index: 1; position: fixed; top: 60px; left: 0; right: 0; height: 0; text-align: center; }
+.fixed-overlay > h1 { font-size: 28px; letter-spacing: 4px; color: #6201e7;	display: inline-block; text-align: left; }
+
+/* SPEAKER PAGE */
+.description { margin-top: 160px; }
+.description p{ font-size: 14px; }
+.description h2 { font-size: 18px; text-transform: uppercase; }
+.speaker_info {	background-color: #e7f2ee; }
+.speaker_images { background-color: #aaa; }
+.speaker-portrait {	margin-top: 5px; }
+.speaker-website { margin-top: 10px; }
+.speaker-website a { font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size: 12px;	color: black; }
+
+/* NAVIGATION */
+.nav_images { position: absolute; top: 90px; right: 70px; z-index: 3; text-transform: uppercase; color: #6201e7; font-size: 16px; }
+.nav_images a { font-size: 14px; }
+.nav_images.left { left: 70px; }
+#speakers_list { z-index: 1; position: fixed; top: 200px; left: 0; right: 0; height: 0; text-align: center; }
+#speakers_list nav { display: inline-block; z-index: 0; }
+#speakers_list ul.nav {list-style-type: none; padding-left: 0; text-transform: uppercase; }
+#speakers_list ul.nav a {font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size: 20px; letter-spacing: 3px; padding:0;}
+#speakers_list ul.nav a:hover {background-color: transparent; text-decoration: underline;}
+#speakers_list li.active a { text-decoration: underline; }
+
+/* NAVBAR */
+.navbar .nav li a { font-family:"Century Schoolbook Regular", 'Century Schoolbook', serif; font-weight:normal; font-style:normal; text-transform: uppercase; color: white; font-size: 14px; letter-spacing: 0.1em; padding-right: 0; margin-top: 3px; }
+.navbar .nav > li > a:hover, .nav > li > a:focus { text-decoration: underline; background-color: transparent; }
+.navbar .nav .open > a, .nav .open > a:hover, .nav .open > a:focus { background-color: transparent; }
+.navbar .nav li.active a { color: #e7f2ee; text-decoration: underline; }
+.navbar .nav-justified > li { padding-top: 2px; }
+
+/* FOOTER */
+#footer { position: fixed; bottom: 10px; z-index: 1; text-align: center; width: 100%; }
+#footer ul { list-style-type: none; }
+#footer li { display: inline-block;	margin-right: 15px; text-transform: uppercase; }
+#footer a { color: black; }
+
+
