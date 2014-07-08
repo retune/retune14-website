@@ -1,6 +1,7 @@
 RewriteEngine On
 RewriteBase /2014/
 
+# hide the php file extension
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
