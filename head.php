@@ -2,21 +2,24 @@
 <html>
     <head>
         <title>retune - creative technology conference | 26. - 28.09.2014 berlin</title>        
-		<meta name="viewport" content="width=600" />
+		<!-- <meta name="viewport" content="width=1000" /> -->
 		 <!-- Bootstrap core CSS -->
 	    <link href="css/bootstrap.css" rel="stylesheet">
+	    <link rel="stylesheet" type="text/css" href='https://ti.to/retune/retune-2014.css?version=4' />
 	    <link href="css/style.css" rel="stylesheet">
+
+
 		<link rel="icon" href="http://retune.de/img/favicon.png" type="image/png">
         <meta charset="UTF-8" />
-		<meta name="description" content="retune is a berlin based platform for artists, designers, technologists and researchers who explore and shape new ways of creating and expressing with technology."/>
+		<meta name="description" content="From 26. - 28. September 2014 the retune conference brings together for the third time artists, designers, technologists as well as researchers and scientists to inspire interdisciplinary thinking and making. This annual gathering of international creative minds seeks to explore, shape, and critically question the future of living, working, and expressing through technology."/>
 		<meta property='og:locale' content='en_US'/>
 		<meta property='og:type' content='website'/>
-		<meta property='og:title' content='retune.'/>
-		<meta property='og:description' content='retune is a berlin based platform for artists, designers, technologists and researchers who explore and shape new ways of creating and expressing with technology.'/>
-		<meta property='og:url' content='http://retune.de'/>
-		<meta property='og:site_name' content='retune.'/>
+		<meta property='og:title' content='retune. 2014 | 26. - 28.09.2014'/>
+		<meta property='og:description' content='From 26. - 28. September 2014 the retune conference brings together for the third time artists, designers, technologists as well as researchers and scientists to inspire interdisciplinary thinking and making. This annual gathering of international creative minds seeks to explore, shape, and critically question the future of living, working, and expressing through technology.'/>
+		<meta property='og:url' content='http://retune.de/2014/'/>
+		<meta property='og:site_name' content='retune. 2014'/>
 		<meta property='fb:admins' content='1443104249'/>
-		<meta property='og:image' content='http://retune.de/img/retune_og.jpg'/>
+		<meta property='og:image' content='http://retune.de/2014/img/og-image.jpg'/>
 
         <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
     	<script src="js/bootstrap.js"></script>
@@ -46,11 +49,24 @@
 				    });
 				});
 
-				$('body').scrollspy({ target: '#speakers_list' })
+				$('body').scrollspy({ target: '#middle_nav' })
+
+				// $("#about-box").mousemove(function( event ) {
+				// 	//var ctx = $("canvas.about-box").getContext(2d);
+				// 	var c=document.getElementById("about-box");
+				// 	var ctx=c.getContext("2d");
+				// 	var img=document.getElementById("bailey");
+				// 	console.log(event.clientX- $("#about-box").position().left);
+				// 	// ctx.drawImage(img,event.pageX - $("#about-box").position().left,event.pageY-$("#about-box").position().top);
+				// 	ctx.drawImage(img,event.clientX- $("#about-box").position().left, 0);
+				// });
 			});
 		</script>
+		<script type="text/javascript">
+			
+		</script>
     </head>
-    <body data-spy="scroll" data-target="#speaker_list">
+    <body data-spy="scroll" data-target="#middle_nav">
 		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 	        <div class="container">
 	            <div class="navbar-header">
@@ -61,19 +77,19 @@
 	                    <span class="icon-bar"></span>
 	                </button>
 	                <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-	                <a class="navbar-brand" href="index.html"><img src="img/logo-verlauf_small.png" class="img-responsive" style="width:90px;"/></a>
+	                <a class="navbar-brand" href="/2014"><img src="img/logo-verlauf_small.png" class="img-responsive" style="width:90px;"/></a>
 	            </div>
 
 	            <!-- Collect the nav links, forms, and other content for toggling -->
 	            <div class="collapse navbar-collapse navbar-ex1-collapse">
 	                <ul class="nav nav-justified">
 	                	<?php $file = basename($_SERVER['PHP_SELF'], '.php'); ?>
-	                    <li<?php if($file == "index") {echo ' class="active"';} ?>><a href="index.php">about</a></li>
-	                    <li<?php if($file == "speakers") {echo ' class="active"';} ?>><a href="speakers.php">speakers</a></li>
-	                    <li<?php if($file == "workshops") {echo ' class="active"';} ?>><a href="workshops.php">workshops</a></li>
+	                    <li<?php if($file == "about") {echo ' class="active"';} ?>><a href="about" class="about">about</a></li>
+	                    <li<?php if($file == "speakers") {echo ' class="active"';} ?>><a href="speakers" class="speakers">speakers</a></li>
+	                    <!-- <li<?php if($file == "workshops") {echo ' class="active"';} ?>><a href="workshops" class="workshops">workshops</a></li> -->
 	                    <!-- <li<?php if($file == "program") {echo ' class="active"';} ?>><a href="program.php">program</a></li> -->
-	                    <!-- <li><a href="tickets">tickets</a></li> -->
-	                    <!-- <li<?php if($file == "venue") {echo ' class="active"';} ?>><a href="venue.php">venue</a></li> -->
+	                    <li<?php if($file == "venue") {echo ' class="active"';} ?>><a href="venue" class="venue">venue</a></li>
+	                    <li<?php if($file == "tickets") {echo ' class="active"';} ?>><a href="tickets" class="tickets">tickets</a></li>
 	                    <!-- <li<?php if($file == "partners") {echo ' class="active"';} ?>><a href="partners.php">partners</a></li> -->
 	                    <!-- <li<?php if($file == "press") {echo ' class="active"';} ?>><a href="press">press</a></li> -->
 	                </ul>

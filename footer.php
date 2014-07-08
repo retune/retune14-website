@@ -1,50 +1,34 @@
 <div id="footer">
+			<p>retune 2014 // 26. – 28.09.2014, ARENA Glashaus Berlin</p>
 			<ul>
+				<li><a href="http://eepurl.com/oAiGz" target="_blank">newsletter</a></li>
 				<li><a href="https://twitter.com/retune_conf" target="_blank">twitter</a></li>
 				<li><a href="https://www.facebook.com/retuneconference" target="_blank">facebook</a></li>
 				<li><a href="http://instagram.com/retune_conf" target="_blank">instagram</a></li>
 				<li><a href="http://flickr.com/retuneconference" target="_blank">flickr</a></li>
 				<li><span class="glyphicon glyphicon-minus"></span></li>
-				<li><a href="http://eepurl.com/oAiGz" target="_blank">newsletter</a></li>
-				<li><a href="imprint" target="_blank">imprint</a></li>
+				<li><a href="terms.php">terms</a></li>
+				<li><a href="imprint">imprint</a></li>
 			</ul>
 		</div>
 
 	</body>
 
-	<!-- speaker slideshow images -->
-	<script language="JavaScript">
-			$("#auger_image").backstretch([
-	          "http://retune.de/2013/img/Auger_Blinddate.jpg",
-	          "http://retune.de/2013/img/KyleMcDonald_LightLeaks.jpg"
-	        ], { fade: 750, duration: 8000 });
-
-	        $("#auger_small").backstretch([
-	          "http://retune.de/2013/img/Auger_Blinddate.jpg",
-	          "http://retune.de/2013/img/KyleMcDonald_LightLeaks.jpg"
-	        ], { fade: 750, duration: 8000 });
-
-	        $("#bailey_image").backstretch([
-	          "http://retune.de/2013/img/Bailey_01.jpg",
-	          "http://retune.de/2013/img/Bailey_02.jpg"
-	        ], { fade: 750, duration: 8000 });
-
-			function previousImage(name){
-				$('#'+name+'_image').data('backstretch').prev();
-			}
-			
-			function nextImage(name){
-				$('#'+name+'_image').data('backstretch').next();
-			}
-			  
-			// pre-load images
-			if(document.images){
-				var image1 = new Image()			   
-			   image1.src = "http://retune.de/2013/img/Auger_Blinddate.jpg"
-			   var image2 = new Image()
-			   image2.src = "http://retune.de/2013/img/KyleMcDonald_LightLeaks.jpg"
-			}
-		</script>
+	<!-- slideshow images -->
+	<?php
+		$file = basename($_SERVER['PHP_SELF'], '.php'); 
+		if($file == "speakers") {
+			echo '<script src="js/slideshow_nav.js"></script>';
+			echo '<script src="js/speakers_slideshow.js"></script>';
+		} 
+		else if($file == "workshops") {
+			echo '<script src="js/slideshow_nav.js"></script>';
+			echo '<script src="js/workshops_slideshow.js"></script>';
+		} 
+		else if($file == "index") {
+			echo '<script src="js/index_slideshow.js"></script>';
+		} 
+	?>
 
 	<!-- Piwik -->
 	<script type="text/javascript">
