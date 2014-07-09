@@ -1,6 +1,6 @@
 <?php require_once('head.php'); ?> 
 	
-    	<div class="container full-width-container">
+    	<div id="workshops" class="container full-width-container">
     		<div class="fixed-overlay">
 				<h1>workshops 2014</h1>
 			</div>
@@ -8,180 +8,37 @@
 			<div id="middle_nav" class="hidden-sm hidden-xs">
 				<nav>
 					<ul class="nav">
-						<li><a href="#workshop1">Workshop 1</a></li>
-						<li><a href="#workshop2">Workshop 2</a></li>
-						<li><a href="#workshop3">Workshop 3</a></li>
-						<li><a href="#workshop4">Workshop 4</a></li>
-						<li><a href="#workshop5">Workshop 5</a></li>
-						<li><a href="#workshop6">Workshop 6</a></li>
+						<li style="font-size: 20px; margin-bottom: 3px; font-family:'Apercu Regular', Calibri, sans-serif; font-weight:normal; font-style:normal;">Regular Workshops</li>
+						<li><a>coming soon</a></li>
+						<li style="font-size: 20px; margin-top: 20px; margin-bottom: 3px; font-family:'Apercu Regular', Calibri, sans-serif; font-weight:normal; font-style:normal;">Extended Workshops</li>
+						<li><a href="#ccl" style="letter-spacing: 1px;">Choreographic Coding Lab</a></li>
 					</ul>
 				</nav>
 			</div>
 
 			<!-- WORKSHOP 1 -->
-	    	<div class="row" id="workshop1">
+	    	<div class="row" id="ccl">
 				<div class="workshop_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
-						<h2>Workshop 1</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
-						<p>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<img class="portrait" src="img/auger.png" />
-						<div class="website"><a href="">auger.com</a><br/><a href="">my-second-website.com</a></div>
-						<div id="workshop1_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
+						<h2>Choreographic Coding Lab</h2>
+						<h3 style="margin-top: -16px; font-size: 16px; margin-bottom: 22px;">5 days | 22. – 26.09.2014</h3>
+						<p><a href="http://motionbank.org" target="_blank">Motion Bank</a> and <a href="http://node.vvvv.org">NODE Forum for Digital Arts</a> are inviting you to <a href="http://choreographiccoding.org/#lab-retune-2014-form" target="_blank">apply</a> for a week-long gathering of movement hackers and practitioners who will be discussing and working on projects, ideas and challenges in a peer-to-peer setting. The Lab will start before and run into the retune.14 conference (September 26th – 28th) and will be kindly hosted by <a href="http://www.hzt-berlin.de/" target="_blank">Hochschulübergreifendes Zentrum Tanz Berlin (HZT)</a>.</p>
+						<p><a href="http://choreographiccoding.org/" target="_blank">Choreographic Coding Labs</a> (CCL) offer unique opportunities of exchange and collaboration for digital media ‘code savvy’ artists who have an interest in translating aspects of choreography and dance into digital form and applying choreographic thinking to their own practice. Working with patterns, structures and movement through finding, generating and applying them with results ranging from prototypes for artworks to new plug-ins for working with dance related datasets. CCLs also seek to initiate a sustainable collaborative practice among its participants encouraging ongoing exchange in an artistic research community of individuals.</p>
+						<p>CCLs are an outcome of <a href="http://motionbank.org" target="_blank">Motion Bank</a>, a four-year research project of The Forsythe Company focused on the creation of digital dance scores with guest choreographers. This research involved the study, documentation and analysis of unique choreographic approaches, and the datasets and tools used behind the development of the Motion Bank scores will be made available for the CCLs which are curated in collaboration with NODE Forum as a high-level, intensive environment that maximizes interaction and exchange over a period of five days.</p>
+						<p>The week will be enriched by lightning talks by members of the Motion Bank research team and network aimed to inspire and provoke participants with new perspectives and experiences. There is no fee for participation, but applicants are asked to propose starting points and ideas. The space and basic equipment will be provided. Collaborative teams involving choreographers/dancers interested in the Motion Bank research approach are very much encouraged to apply.</p>
+						<div class="website">Apply here: <a href="http://choreographiccoding.org/#lab-retune-2014-form" target="_blank">choreographiccoding.org</a></div>
+						<div id="ccl_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
-				<div id="workshop1_image" class="workshop_images col-md-6 hidden-sm hidden-xs">					
+				<div id="ccl_image" class="workshop_images col-md-6 hidden-sm hidden-xs" style="position: fixed; right:0;">					
 					<nav class="nav_images">
-						<a href="javascript:previousImage('workshop1')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('workshop1')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						<a href="javascript:previousImage('ccl')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('ccl')"><span class="glyphicon glyphicon-chevron-right"></span></a>
 						images
 					</nav>
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->	
-
-
-			<!-- WORKSHOP 2 -->
-			<div class="row" id="workshop2">
-				<div id="workshop2_image" class="workshop_images col-md-6 hidden-sm hidden-xs">					
-					<nav class="nav_images left">
-						<a href="javascript:previousImage('workshop2')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('workshop2')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
-
-				<div class="workshop_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
-						<h2>Workshop 2</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
-						<p>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<img class="portrait" src="img/auger.png" />
-						<div class="website"><a href="">auger.com</a><br/><a href="">my-second-website.com</a></div>
-						<div id="workshop2_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-						
-					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->				
-			</div> <!-- /row -->	
-
-			<!-- WORKSHOP 3 -->
-			<div class="row" id="workshop3">
-				<div class="workshop_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
-						<h2>Workshop 3</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
-						<p>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<img class="portrait" src="img/auger.png" />
-						<div class="website"><a href="">auger.com</a><br/><a href="">my-second-website.com</a></div>
-						<div id="workshop3_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-						
-					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->
-
-				<div id="workshop3_image" class="workshop_images col-md-6 hidden-sm hidden-xs">					
-					<nav class="nav_images">
-						<a href="javascript:previousImage('workshop3')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('workshop3')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
-			</div> <!-- /row -->	
-
-			<!-- WORKSHOP 4 -->
-			<div class="row" id="workshop4">
-				<div id="workshop4_image" class="workshop_images col-md-6 hidden-sm hidden-xs">					
-					<nav class="nav_images left">
-						<a href="javascript:previousImage('workshop4')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('workshop4')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
-
-				<div class="workshop_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
-						<h2>Workshop 4</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
-						<p>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<img class="portrait" src="img/auger.png" />
-						<div class="website"><a href="">auger.com</a><br/><a href="">my-second-website.com</a></div>
-						<div id="workshop4_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-						
-					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->				
-			</div> <!-- /row -->	
-
-			<!-- WORKSHOP 5 -->
-			<div class="row" id="workshop5">
-				<div class="workshop_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
-						<h2>Workshop 5</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
-						<p>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<img class="portrait" src="img/auger.png" />
-						<div class="website"><a href="">auger.com</a><br/><a href="">my-second-website.com</a></div>
-						<div id="workshop5_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-						
-					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->
-
-				<div id="workshop5_image" class="workshop_images col-md-6 hidden-sm hidden-xs">					
-					<nav class="nav_images">
-						<a href="javascript:previousImage('workshop5')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('workshop5')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
-			</div> <!-- /row -->	
-
-			<!-- WORKSHOP 6 -->
-			<div class="row" id="workshop6">
-				<div id="workshop6_image" class="workshop_images col-md-6 hidden-sm hidden-xs">					
-					<nav class="nav_images left">
-						<a href="javascript:previousImage('workshop6')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('workshop6')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
-
-				<div class="workshop_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
-						<h2>Workshop 6</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
-						<p>consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<img class="portrait" src="img/auger.png" />
-						<div class="website"><a href="">auger.com</a><br/><a href="">my-second-website.com</a></div>
-						<div id="workshop6_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-						
-					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->				
-			</div> <!-- /row -->	
-
-
-
 
 		</div> <!-- /container -->
 <?php require_once('footer.php'); ?> 

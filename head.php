@@ -86,7 +86,7 @@
 	                	<?php $file = basename($_SERVER['PHP_SELF'], '.php'); ?>
 	                    <li<?php if($file == "about") {echo ' class="active"';} ?>><a href="about" class="about">about</a></li>
 	                    <li<?php if($file == "speakers") {echo ' class="active"';} ?>><a href="speakers" class="speakers">speakers</a></li>
-	                    <!-- <li<?php if($file == "workshops") {echo ' class="active"';} ?>><a href="workshops" class="workshops">workshops</a></li> -->
+	                    <li<?php if($file == "workshops") {echo ' class="active"';} ?>><a href="workshops" class="workshops">workshops</a></li>
 	                    <!-- <li<?php if($file == "program") {echo ' class="active"';} ?>><a href="program.php">program</a></li> -->
 	                    <li<?php if($file == "venue") {echo ' class="active"';} ?>><a href="venue" class="venue">venue</a></li>
 	                    <li<?php if($file == "tickets") {echo ' class="active"';} ?>><a href="tickets" class="tickets">tickets</a></li>
