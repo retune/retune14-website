@@ -16,8 +16,8 @@
 					<img class="img-responsive" src="img/moods.png" /><br/>
 						<p>Mirrors allow us to look at the world and ourselves from the outside, enable us to see things otherwise hidden. Giving us the chance to learn something about us and our environment. 
 						Today's mirrors are not made of glass and metal but from silicon. The digital world is like a mirror-world, reflecting events, people, connections and places. Our behavior is being documented by countless data, social network activities, photos, videos and biometric data. Personal and global trends, affectations and reluctances can be analyzed. 
-						It is easy to fall in love with the wonderland in the mirror and our virtual self that is easily reshape.  
-						Reflections can be distorted, filtered or blurred without us noticing. It looks so familiar but is yet not the same. Finding out more about the mirror is hard because it keeps distracting us with its reflections. It evades observation, showing something else instead of revealing truth about itself and hiding what lies behind.
+						It is easy to fall in love with the wonderland in the mirror and our virtual self that is easy to reshape.<p>  
+						<p>Reflections can be distorted, filtered or blurred without us noticing. It looks so familiar but is yet not the same. Finding out more about the mirror is hard because it keeps distracting us with its reflections. It evades observation, showing something else instead of revealing truth about itself and hiding what lies behind.
 						And in the end what the mirror shows and what we see in it is not necessarily the same.</p>
 						<p>How do these reflections change us? How does technology reflect back on us? How is the reflection reflected in our behavior? How does art reflect these developments?</p>
 						<p>Sometimes it is hard to tell apart the real world and the reflection in the mirror, it's hard to find the way out of the house of mirrors. Everything seems blurry and we're left alone looking at ourselves in the reflection of our computer screens.</p>
