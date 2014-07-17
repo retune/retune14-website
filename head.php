@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>retune - creative technology conference | 26. - 28.09.2014 berlin</title>        
-		<!-- <meta name="viewport" content="width=1000" /> -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- Bootstrap core CSS -->
 	    <link href="css/bootstrap.css" rel="stylesheet">
 	    <link rel="stylesheet" type="text/css" href='https://ti.to/retune/retune-2014.css?version=4' />
