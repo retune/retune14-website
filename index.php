@@ -23,11 +23,11 @@
 				</div>
 				<div class="col-sm-6 text-center">
 					<h1>sponsors</h1>
-					<img src="../img/mailchimp.png" />
+					<a href="http://mailchimp.com" target="_blank"><img src="../img/mailchimp.png" /></a>
 				</div>
 			</div>
 
-			<a href="http://retune.de/studio-visits/02-quadrature-domecq/" target="_blank"><img src="img/studio-visit-announcement.png" style="position: absolute; top: 55px; right: 60px;" /></a>
+			<!-- <a href="http://retune.de/studio-visits/02-quadrature-domecq/" target="_blank"><img src="img/studio-visit-announcement.png" style="position: absolute; top: 55px; right: 60px;" /></a> -->
 
 		</div> <!-- /container -->
 
