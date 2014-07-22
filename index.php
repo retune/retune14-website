@@ -24,6 +24,8 @@
 				<div class="col-sm-6 text-center">
 					<h1>sponsors</h1>
 					<a href="http://mailchimp.com" target="_blank"><img src="../img/mailchimp.png" /></a>
+					<h1>technical support</h1>
+					<a href="http://serve-u.de" target="_blank"><img src="img/serve-u_color.png" /></a>
 				</div>
 			</div>
 
