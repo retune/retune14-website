@@ -29,7 +29,7 @@
 				</div>
 			</div>
 
-			<!-- <a href="http://retune.de/studio-visits/02-quadrature-domecq/" target="_blank"><img src="img/studio-visit-announcement.png" style="position: absolute; top: 55px; right: 60px;" /></a> -->
+			<a href="http://bit.ly/retune14-opencall-website" target="_blank"><img src="img/call-announcement.png" style="position: absolute; top: 55px; right: 60px;" /></a>
 
 		</div> <!-- /container -->
 
