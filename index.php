@@ -15,17 +15,20 @@
 
 			<div class="row" id="supporter">
 				<div class="col-sm-6 text-center">
-					<h1>friends and supporters</h1>
-					<a href="http://sonicedevelopment.com" target="_blank"><img src="../img/sonice.png" width="220px" /></a><br/>
-					<a href="http://studio-regular.com/" target="_blank"><img src="../img/StudioRegular.png" width="220px" /></a><br/>
-					<a href="http://theconstitute.org/" target="_blank"><img src="../img/the_constitute.png" /></a><br/>
-					<a href="http://tinkersoup.de/" target="_blank"><img src="img/tinkersoup_color_small.png" /></a>
-				</div>
-				<div class="col-sm-6 text-center">
 					<h1>sponsors</h1>
-					<a href="http://mailchimp.com" target="_blank"><img src="../img/mailchimp.png" /></a>
+					<a href="http://mailchimp.com" target="_blank"><img src="img/mailchimp.png" /></a><br/>
+					<a href="http://wetransfer.com" target="_blank"><img src="img/wetransfer.png" /></a>
 					<h1>technical support</h1>
 					<a href="http://serve-u.de" target="_blank"><img src="img/serve-u_color.png" /></a>
+				</div>
+
+				<div class="col-sm-6 text-center">
+					<h1>friends and supporters</h1>
+					<a href="http://sonicedevelopment.com" target="_blank"><img src="img/sonice.png" width="220px" /></a><br/>
+					<a href="http://studio-regular.com/" target="_blank"><img src="img/StudioRegular.png" width="220px" /></a><br/>
+					<a href="http://theconstitute.org/" target="_blank"><img src="img/the_constitute.png" /></a><br/>
+					<a href="http://tinkersoup.de/" target="_blank"><img src="img/tinkersoup_color_small.png" /></a><br/>
+					<a href="http://formulor.de/" alt="formulor lasercut lasercutting" target="_blank"><img src="img/formulor.png" /></a>
 				</div>
 			</div>
 
