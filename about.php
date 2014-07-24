@@ -40,6 +40,8 @@
 						Prof. Dr. Jörg Petruschat (HTW Dresden)<br/>
 						Prof. Alan N. Shapiro (HfG Offenbach)<br/>
 						Prof. Peter Friedrich Stephan (Kunsthochschule für Medien Köln)</p>
+					<br/><p><em>visual identity and website design:</em> <a href="http://studio-regular.com/" target="_blank">Studio Regular</a>
+					</p>
 				</div>
 			</div> <!-- /row -->
 
