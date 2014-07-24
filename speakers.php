@@ -83,7 +83,7 @@
 						up-and-coming medium in the realm of art and design. Until now, he is leading this interdisciplinary group.</p>
 						<p>Since 1991 he is full professor for "New Media Art and Design" at the 'University of the Arts' Berlin and since 2001 adjunct professor at UCLA, Los Angeles.</p>
 						<img class="portrait img-circle" src="img/speakers/sauter_portrait.jpg" />
-						<div class="website"><a href="" target="_blank"></a></div>
+						<div class="website"><a href="http://www.joachimsauter.com" target="_blank">joachimsauter.com</a></div>
 						<div id="sauter_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
