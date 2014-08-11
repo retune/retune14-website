@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- Bootstrap core CSS -->
 	    <link href="css/bootstrap.css" rel="stylesheet">
-	    <link rel="stylesheet" type="text/css" href='https://ti.to/retune/retune-2014.css?version=4' />
+	    <!-- <link rel="stylesheet" type="text/css" href='https://ti.to/retune/retune-2014.css?version=4' /> -->
 	    <link href="css/style.css" rel="stylesheet">
 
 
@@ -21,20 +21,22 @@
 		<meta property='fb:admins' content='1443104249'/>
 		<meta property='og:image' content='http://retune.de/2014/img/og-image.jpg'/>
 
-        <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+        <script src="js/jquery-1.9.1.min.js"></script>
+        <script src="js/jquery.lettering-0.6.1.min.js"></script>
+        <script src="js/jquery.scrollorama.js"></script>
     	<script src="js/bootstrap.js"></script>
 		<script src="js/jquery.backstretch.js"></script>
     	<script type="text/javascript">
-			WebFontConfig = { fontdeck: { id: '41866' } };
-			(function() {
-				var wf = document.createElement('script');
-				wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-				'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-				wf.type = 'text/javascript';
-				wf.async = 'true';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(wf, s);
-			})();
+			// WebFontConfig = { fontdeck: { id: '41866' } };
+			// (function() {
+			// 	var wf = document.createElement('script');
+			// 	wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+			// 	'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+			// 	wf.type = 'text/javascript';
+			// 	wf.async = 'true';
+			// 	var s = document.getElementsByTagName('script')[0];
+			// 	s.parentNode.insertBefore(wf, s);
+			// })();
 
 			$(document).ready(function() {
 				// smooth scrolling for internal links from here: http://www.paulund.co.uk/smooth-scroll-to-internal-links-with-jquery
@@ -61,9 +63,6 @@
 				// 	ctx.drawImage(img,event.clientX- $("#about-box").position().left, 0);
 				// });
 			});
-		</script>
-		<script type="text/javascript">
-			
 		</script>
     </head>
     <body data-spy="scroll" data-target="#middle_nav">

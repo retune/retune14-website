@@ -25,6 +25,10 @@
 			echo '<script src="js/slideshow_nav.js"></script>';
 			echo '<script src="js/workshops_slideshow.js"></script>';
 		} 
+		else if($file == "workshops_new") {
+			echo '<script src="js/slideshow_nav.js"></script>';	
+			echo '<script src="js/workshops_slideshow.js"></script>';
+		} 
 		else if($file == "index") {
 			echo '<script src="js/index_slideshow.js"></script>';
 		} 
@@ -32,17 +36,7 @@
 
 	<!-- Piwik -->
 	<script type="text/javascript">
-	  var _paq = _paq || [];
-	  _paq.push(["trackPageView"]);
-	  _paq.push(["enableLinkTracking"]);
 
-	  (function() {
-	    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.julianadenauer.de/";
-	    _paq.push(["setTrackerUrl", u+"piwik.php"]);
-	    _paq.push(["setSiteId", "6"]);
-	    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-	    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
-	  })();
 	</script>
 	<!-- End Piwik Code -->
 
