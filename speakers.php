@@ -85,11 +85,14 @@
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Cyborgs e.V.</h2>
-						<p>What is a cyborg? Are you one? Do the sensors in the smartphones we carry make us cyborgs? Or do these need to be directly connected to our body – implanted? Or does being a cyborg start earlier, when we depend on technology to take part in everyday life?</p>
-						<p>We, the Berlin-based organization Cyborgs e.V., are looking for answers. We’re organizing a barcamp and invite interested cyborgs and non-cyborgs of any profession to discuss and hack with us.</p>
-						<p>How do apps and gadgets change our behavior? What is life with implants like? How can you hack a prothesis and what software do you need to do it? What can we build? We invite hackers, researchers, developers and everyone interested.</p>
-						<img class="portrait img-circle" src="img/speakers/cyborgs_portrait.jpg" />
-						<div class="website"><a href="http://cyborgs.cc" target="_blank">cyborgs.cc</a></div>
+						<p>The ambivalence of futuristic-sounding pictures of a dissolving human body, on the one hand, and the bio-tech symbiosis that is happening at the moment in real life and society, on the other, clearly
+challenges the societal norms and standards that make up our conception of humankind. The technological extended human does not uphold a distinction between the interior and exterior of the human's skinbag in the future. What will happen in a posthuman era, where cyborg bodies are increasingly leaving their ancient fortress of skin and skull in favour of mental extension?</p>
+<p>Talk by Nadja Buttendorf and Stefan Greiner.</p>
+						<img class="portrait img-circle" src="img/speakers/buttendorf_portrait.jpg" />  <img class="portrait img-circle" src="img/speakers/greiner_portrait.jpg" />
+						<div class="website"><a href="http://cyborgs.cc" target="_blank">cyborgs.cc</a><br/>
+							<a href="http://nadjabuttendorf.com" target="_blank">nadjabuttendorf.com</a>
+							
+						</div>
 						<div id="cyborgs_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->

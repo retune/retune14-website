@@ -172,6 +172,16 @@ $("#mirti_small").backstretch([
   "img/speakers/mirti_01.jpg"
 ], { fade: 750, duration: 8000 });
 
+$("#cyborgs_image").backstretch([
+  "img/speakers/cyborgs_01.jpg",
+  "img/speakers/cyborgs_02.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#cyborgs_small").backstretch([
+  "img/speakers/cyborgs_01.jpg",
+  "img/speakers/cyborgs_02.jpg"
+], { fade: 750, duration: 8000 });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        
