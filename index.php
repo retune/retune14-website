@@ -17,7 +17,9 @@
 				<div class="col-sm-6 text-center">
 					<h1>sponsors</h1>
 					<a href="http://mailchimp.com" target="_blank"><img src="img/mailchimp.png" /></a><br/>
-					<a href="http://wetransfer.com" target="_blank"><img src="img/wetransfer.png" /></a>
+					<a href="http://wetransfer.com" target="_blank"><img src="img/wetransfer.png" /></a><br/>
+					<a href="http://cloud-film.tv" target="_blank"><img src="img/cloud.png" /></a>
+					
 					<h1>technical support</h1>
 					<a href="http://serve-u.de" target="_blank"><img src="img/serve-u_color.png" /></a>
 				</div>
@@ -29,6 +31,11 @@
 					<a href="http://theconstitute.org/" target="_blank"><img src="img/the_constitute.png" /></a><br/>
 					<a href="http://tinkersoup.de/" target="_blank"><img src="img/tinkersoup_color_small.png" /></a><br/>
 					<a href="http://formulor.de/" alt="formulor lasercut lasercutting" target="_blank"><img src="img/formulor.png" /></a>
+
+					<h1>partner events</h1>
+					<a href="http://fiber-space.nl/" target="_blank"><img src="img/fiber.png" /></a><br/>
+					<a href="http://kikk.be" target="_blank"><img src="img/kikk.png" /></a>
+					<a href="http://www.alpha-ville.co.uk" target="_blank"><img src="img/alphaville.png" style="margin-left:30px"/></a>
 				</div>
 			</div>
 

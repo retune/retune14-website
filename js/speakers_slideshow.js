@@ -126,6 +126,52 @@ $("#gohl_small").backstretch([
   "img/speakers/gohl_04.jpg"
 ], { fade: 750, duration: 8000 });
 
+$("#wang_image").backstretch([
+  "img/speakers/wang_01.jpg",
+  "img/speakers/wang_02.jpg",
+  "img/speakers/wang_03.jpg",
+  "img/speakers/wang_04.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#wang_small").backstretch([
+  "img/speakers/wang_01.jpg",
+  "img/speakers/wang_02.jpg",
+  "img/speakers/wang_03.jpg",
+  "img/speakers/wang_04.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#visnjic_image").backstretch([
+  "img/speakers/visnjic_01.jpg",
+  "img/speakers/visnjic_02.jpg",
+  "img/speakers/visnjic_03.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#visnjic_small").backstretch([
+  "img/speakers/visnjic_01.jpg",
+  "img/speakers/visnjic_02.jpg",
+  "img/speakers/visnjic_03.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#schmidt_image").backstretch([
+  "img/speakers/schmidt_01.jpg",
+  "img/speakers/schmidt_02.jpg",
+  "img/speakers/schmidt_03.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#schmidt_small").backstretch([
+  "img/speakers/schmidt_01.jpg",
+  "img/speakers/schmidt_02.jpg",
+  "img/speakers/schmidt_03.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#mirti_image").backstretch([
+  "img/speakers/mirti_01.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#mirti_small").backstretch([
+  "img/speakers/mirti_01.jpg"
+], { fade: 750, duration: 8000 });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        

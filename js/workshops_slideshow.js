@@ -85,12 +85,17 @@ $("#vvvv_small").backstretch([
 ], { fade: 750, duration: 8000 });
 
 $("#openframeworks_image").backstretch([
-  "img/workshops/openframeworks_01.jpg"
+  "img/workshops/openframeworks_01.jpg",
+  "img/workshops/openframeworks_02.jpg",
+  "img/workshops/openframeworks_03.jpg",
+  "img/workshops/openframeworks_04.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#openframeworks_small").backstretch([
-  // "img/workshops/ccl_01.jpg",
-  "img/workshops/openframeworks_01.jpg"
+  "img/workshops/openframeworks_01.jpg",
+  "img/workshops/openframeworks_02.jpg",
+  "img/workshops/openframeworks_03.jpg",
+  "img/workshops/openframeworks_04.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#networkshop_image").backstretch([

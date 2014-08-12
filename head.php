@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- Bootstrap core CSS -->
 	    <link href="css/bootstrap.css" rel="stylesheet">
-	    <!-- <link rel="stylesheet" type="text/css" href='https://ti.to/retune/retune-2014.css?version=4' /> -->
+	    <link rel="stylesheet" type="text/css" href='https://ti.to/retune/retune-2014.css?version=4' />
 	    <link href="css/style.css" rel="stylesheet">
 
 

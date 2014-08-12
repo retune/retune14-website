@@ -10,6 +10,7 @@
 					<ul class="nav">
 						<li><a href="#aparede">A Parede</a></li>
 						<li><a href="#blas">Zach Blas</a></li>
+						<li><a href="#cyborgs">Cyborgs e.V.</a></li>
 						<li><a href="#franco">Anaisa Franco</a></li>
 						<li><a href="#gohl">Jarii van Gohl</a></li>
 						<li><a href="#mirti">Stefano Mirti</a></li>
@@ -21,7 +22,7 @@
 						<li><a href="#uva">United Visual Artists</a></li>
 						<li><a href="#visnjic">Filip Visnjic</a></li>
 						<li><a href="#wang">Alice Wang</a></li>
-						<li><a href="#wellmer">Gösta Wellmer</a></li>
+						<?php /*<li><a href="#wellmer">Gösta Wellmer</a></li>*/?>
 					</ul>
 				</nav>
 			</div>
@@ -54,6 +55,14 @@
 				ZACH BLAS
 			 -->
 			<div class="row" id="blas"> 
+				<div id="blas_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images left">
+						<a href="javascript:previousImage('blas')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('blas')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Zach Blas (via video-conference)</h2>
@@ -65,10 +74,30 @@
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
-				<div id="blas_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+				
+			</div> <!-- /row -->
+
+
+			<!-- 
+				CYBORGS E.V.
+			 -->
+			<div class="row" id="cyborgs"> 
+				<div class="speaker_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+						<h2>Cyborgs e.V.</h2>
+						<p>What is a cyborg? Are you one? Do the sensors in the smartphones we carry make us cyborgs? Or do these need to be directly connected to our body – implanted? Or does being a cyborg start earlier, when we depend on technology to take part in everyday life?</p>
+						<p>We, the Berlin-based organization Cyborgs e.V., are looking for answers. We’re organizing a barcamp and invite interested cyborgs and non-cyborgs of any profession to discuss and hack with us.</p>
+						<p>How do apps and gadgets change our behavior? What is life with implants like? How can you hack a prothesis and what software do you need to do it? What can we build? We invite hackers, researchers, developers and everyone interested.</p>
+						<img class="portrait img-circle" src="img/speakers/cyborgs_portrait.jpg" />
+						<div class="website"><a href="http://cyborgs.cc" target="_blank">cyborgs.cc</a></div>
+						<div id="cyborgs_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+
+				<div id="cyborgs_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
 					<nav class="nav_images">
-						<a href="javascript:previousImage('blas')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('blas')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						<a href="javascript:previousImage('cyborgs')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('cyborgs')"><span class="glyphicon glyphicon-chevron-right"></span></a>
 						images
 					</nav>
 				</div> <!-- /speaker_images -->
@@ -139,7 +168,7 @@
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Stefano Mirti</h2>
-						<p></p>
+						<p>Architect, designer, author, MOOC teacher, social media officer for Expo 2015.</p>
 						<img class="portrait img-circle" src="img/speakers/mirti_portrait.jpg" />
 						<div class="website"><a href="http://www.interactiondesign-lab.com" target="_blank">interactiondesign-lab.com</a></div>
 						<div id="mirti_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
@@ -151,14 +180,6 @@
 				DOMENICO QUARANTA
 			 -->
 			<div class="row" id="quaranta"> 
-				<div id="quaranta_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images left">
-						<a href="javascript:previousImage('quaranta')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('quaranta')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
-
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Domenico Quaranta</h2>
@@ -170,12 +191,27 @@
 						<div id="quaranta_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
+
+				<div id="quaranta_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images">
+						<a href="javascript:previousImage('quaranta')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('quaranta')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
 
 			<!-- 
 				RANDOM INTERNATIONAL
 			 -->
 			<div class="row" id="random"> 
+				<div id="random_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images left">
+						<a href="javascript:previousImage('random')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('random')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>rAndom International</h2>
@@ -186,13 +222,6 @@
 						<div id="random_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
-				<div id="random_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images">
-						<a href="javascript:previousImage('random')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('random')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
 
 
@@ -200,13 +229,6 @@
 				JOACHIM SAUTER
 			 -->
 			<div class="row" id="sauter"> 
-				<div id="sauter_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images left">
-						<a href="javascript:previousImage('sauter')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('sauter')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Joachim Sauter</h2>
@@ -218,16 +240,28 @@
 						<div id="sauter_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
-
+				<div id="sauter_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images">
+						<a href="javascript:previousImage('sauter')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('sauter')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 				
 			</div> <!-- /row -->
 
 			
-
 			<!-- 
 				KARSTEN SCHMIDT
 			 -->
 			<div class="row" id="schmidt"> 
+				<div id="schmidt_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images left">
+						<a href="javascript:previousImage('schmidt')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('schmidt')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Karsten Schmidt</h2>
@@ -238,15 +272,7 @@
 						<div class="website"><a href="http://postspectacular.com" target="_blank">postspectacular.com</a></div>
 						<div id="schmidt_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->
-
-				<div id="schmidt_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images">
-						<a href="javascript:previousImage('schmidt')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('schmidt')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
+				</div> <!-- /speaker_info -->			
 			</div> <!-- /row -->
 
 			<!-- 
@@ -273,6 +299,7 @@
 					</nav>
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->	
+
 
 			<!-- 
 				UVA
@@ -343,7 +370,7 @@
 				</div> <!-- /speaker_info -->
 			</div> <!-- /row -->
 
-
+			<?php /* 
 			<!-- 
 				Gösta Wellmer
 			 -->
@@ -367,6 +394,7 @@
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
 			
+			*/ ?>
 
 		</div> <!-- /container -->
 <?php require_once('footer.php'); ?> 
