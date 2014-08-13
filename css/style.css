@@ -26,6 +26,9 @@ img.portrait {	margin-top: 5px; }
 #workshops .row { clear: both; }
 .workshop-meta { font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size: 13px; margin-top: 25px;	}
 .workshop-meta .col-sm-6 { padding: 0 10px 0 0;}
+#workshops h2 { margin-bottom: 6px;}
+#workshops h3 { margin-top: 0px; font-size: 16px; margin-bottom: 16px;}
+#workshops h4 { font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size: 14px; line-height: 1.5em; margin-bottom: 16px;}
 
 /* TICKETS PAGE */
 .text-page h1 { margin-top: 80px; margin-bottom: 50px; text-align: center;}
