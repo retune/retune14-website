@@ -23,14 +23,12 @@ $(document).ready(function() {
 
 
 $("#ccl_image").backstretch([
-  // "img/workshops/ccl_01.jpg",
   "img/workshops/ccl_02.jpg",
   "img/workshops/ccl_03.jpg",
   "img/workshops/ccl_04.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#ccl_small").backstretch([
-  // "img/workshops/ccl_01.jpg",
   "img/workshops/ccl_02.jpg",
   "img/workshops/ccl_03.jpg",
   "img/workshops/ccl_04.jpg"
@@ -48,20 +46,6 @@ $("#interface_small").backstretch([
   "img/workshops/interfaces_02.jpg",
   "img/workshops/interfaces_03.jpg",
   "img/workshops/interfaces_04.jpg"
-], { fade: 750, duration: 8000 });
-
-
-$("#ws3_image").backstretch([
-  "img/workshop1_01.jpg",
-  "img/workshop1_02.jpg",
-  "img/workshop1_03.jpg"
-], { fade: 750, duration: 8000 });
-
-$("#ws3_small").backstretch([
-  // "img/workshops/ccl_01.jpg",
-  "img/workshop1_01.jpg",
-  "img/workshop1_02.jpg",
-  "img/workshop1_03.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#3d_image").backstretch([

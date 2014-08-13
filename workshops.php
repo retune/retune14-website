@@ -53,7 +53,7 @@
 							</p>
 						</div>
 
-						<div id="interfaces_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="interface_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -133,7 +133,7 @@
 							<a href="http://www.signalfluss.de" target="_blank">signalfluss.de</a>
 						</div>
 
-						<div id="glemmer_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="glemmer_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"><img src="img/workshops/glemmer.gif" style="width:100%;"/></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -270,7 +270,7 @@
 									<li>Complete documentation is provided.</li>
 								</ul>
 							</div>
-						<div id="ws3_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="networkshop_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 
 					</div> <!-- /description -->
 					
