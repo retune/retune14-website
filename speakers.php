@@ -34,7 +34,7 @@
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>A Parede</h2>
-						<p>A Parede is a brazilian design research practice in Berlin. Our research interests are in Speculative and Critical Design, Gender and Sound Studies.</p>
+						<p>A Parede is a brazilian design research practice in Berlin. Their research interests are in Speculative and Critical Design, Gender and Sound Studies.</p>
 						<p>A Parede is interested in developing projects and workshops that question the status quo and not only address but also empower people to take a stand. They truly believe that designers and makers should take a political position; moreover, they believe that research through design is a very powerful tool for making that happen.</p>
 						<p>A Parede consists of the two Ph.D Candidates in Design Research <a href="http://a-pare.de/we/pedro/" target="_blank">Pedro Oliveira</a> and <a href="http://a-pare.de/we/luiza/" target="_blank">Luiza Prado</a>.</p>
 						<img class="portrait img-circle" src="img/speakers/oliveira_portrait.jpg" />  <img class="portrait img-circle" src="img/speakers/prado_portrait.jpg" />
@@ -139,8 +139,8 @@ challenges the societal norms and standards that make up our conception of human
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Jarii van Gohl</h2>
-						<p>Jarii van Gohl is the head of SoundSLKTR. The focus of his work is on sound, music and the interface between people and sounds. In his hometown, he startet to work on a project called „SOUNDKALENDER“ where he records sounds from buildings and their architecture to make music out of it. Architecture is his instrument. It is like a remix of the world of sounds from wich we are allways surrounded by.</p>
-						<p>The rest of his time he is on tour with his band DŸSE all over the world, composes soundtracks for movies, runs his own talkshow called TALKMAN, gives workshops, produces, mixes and masters music, creates analog soundeffects, makes the sounddesign for computergames and animated movies, creates soundlogos and feeds his cat from time to time.</p>
+						<p>Jarii van Gohl is the head of "SoundSLKTR". The focus of his work is on sound, music and the interface between people and sounds. In his hometown, he started to work on a project called „SOUNDKALENDER“ where he records sounds from buildings and their architecture to make music out of it. Architecture is his instrument. It is like a remix of the world of sounds from wich we are allways surrounded by.</p>
+						<p>The rest of his time he is on tour with his band DŸSE all over the world, composes soundtracks for movies, runs his own talkshow called "TALKMAN", gives workshops, produces, mixes and masters music, creates analog soundeffects, makes the sounddesign for computergames and animated movies, creates soundlogos and feeds his cat from time to time.</p>
 						<img class="portrait img-circle" src="img/speakers/gohl_portrait.jpg" />
 						<div class="website"><a href="http://www.dyse-band.de" target="_blank">dyse-band.de</a></div>
 						<div id="gohl_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
