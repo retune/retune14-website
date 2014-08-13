@@ -36,7 +36,7 @@
 						<p><em>Mark Lukas</em> studied communication design at the Hochschule für Gestaltung in Schwäbisch Gmünd. He is particularly interested in the fields of tension between digital interfaces, information design, the design of new exhibition installations, and traditional print media. Today, he is exploring these issues in his current Master Studies of Interface Design at the University of Applied Sciences Potsdam.</p>
 
 						<div class="workshop-meta">
-							<h4>requirements</h4>
+							<h4 class="requirements">requirements</h4>
 							<p>As this one day workshop will be very intense please be prepared to have:
 							<ul>
 								<li>A laptop running Windows 7</li>
@@ -80,7 +80,7 @@
 						<p><em>Joreg:</em> Co­founder of the vvvv group and core­developer of the multipurpose toolkit vvvv. Besides he teaches and is concerned with the integration of sound, image and computer code. Together with Sebastian Gregor he works for money under the label checksum5.</p>
 
 						<div class="workshop-meta">
-							<h4>requirements</h4>
+							<h4 class="requirements">requirements</h4>
 								<ul>
 									<li>The workshop is suitable for beginners and those who never heard of vvvv before.</li>
 									<li>You need to bring a Laptop (Windows oder Mac+Bootcamp) with installed vvvv & addonpack: <a href="http://vvvv.org/downloads" target="_blank">vvvv.org/downloads</a>
@@ -123,7 +123,7 @@
 						<p><em>Simon Schiessl</em>: Technologist always keen on exploring new forms of aesthetic experiences.</p>
 
 						<div class="workshop-meta">
-							<h4>requirements</h4>
+							<h4 class="requirements">requirements</h4>
 							<ul>
 								<li>Skill level: low basics of electronics, soldering and Arduino programming. Newbees are welcome!</li>
 								<li>If possible, please bring your own tinkering tools: laptop, soldering iron, hot glue, pen and paper prototyping tools…</li>
@@ -154,7 +154,7 @@
 						<p><em>Arturo Castro</em> is an artist, educator and engineer currently based in Berlin. He is one of the core developers of the open source toolkit for artists and designers openFrameworks. Currently he works on his own and collaborates with other artists and technologists on projects usually in the field of interactive installations.<br/>His main interests are related with open source culture in the context of artistic practices and technology literacy and his work has been exhibited in museums like Maison d'Ailleurs in Switzerland, the London Design Museum or Moscow's Multimedia Art Museum among others.</p>
 
 						<div class="workshop-meta">
-							<h4>requirements</h4>
+							<h4 class="requirements">requirements</h4>
 								<ul>
 									<li>You need to bring your own computer with any of the 3 supported desktop platforms: Linux, OSX or Windows</li>
 									<li>If possible you should also come with the required software preinstalled. Install guides and downloads can be found here: <a href="http://openframeworks.cc/setup" target="_blank">openframeworks.cc/setup</a></li>
@@ -192,7 +192,7 @@
 						<p><a href="http://www.laydrop.com/" target="_blank">Laydrop</a> develops open-source 3D printing solutions like the i3 Berlin.
 
 						<div class="workshop-meta">
-							<h4>requirements</h4>
+							<h4 class="requirements">requirements</h4>
 							<ul>
 								<li>Participants need to bring a laptop with the latest version of <a href="http://www.blender.org" target="_blank">blender</a> installed.
 								</li>
@@ -220,7 +220,7 @@
 						<p>This workshop introduces the superobjects coding project. The first immediate goal of my work to change the profile of who programmers are. To get away from the idea that programmers are mathematical-logical-engineering types and transform coding into a creative art form. There was a major paradigm shift in programming abouts three decade ago from the procedural paradigm to the object-oriented paradigm. What I am arguing for is a paradigm shift to a third paradigm, partly based on a further extrapolation of the shift from the first to the second paradigms. Programming so far has consisted of sending instructions to a machine or dead thing, basing software on the metaphor of the mechanistic machine. In the superobjects paradigm, software is considered semi-alive, based on the metaphor of the living organism as an information system. Code will be poetic. Existing programming is based on the logic of the discrete. Crucial in the new programming is a logic of similarities or resonances. We will also discuss the first practical applications of the superobjects paradigm in the conversational flow area of Spoken Dialog Technology and in software for dance choreography.</p>
 						<p><em>Alan N. Shapiro</em> is a trans-disciplinary thinker who studied science-technology at MIT and philosophy-history-literature at Cornell University. He is the author or editor of three books: Star Trek: Technologies of Disappearance, Software of the Future, and The Technological Herbarium. He is senior lecturer in informatics and media theory at the Art and Design University, Offenbach.</p>
 						<div class="workshop-meta">
-							<h4>requirements</h4>
+							<h4 class="requirements">requirements</h4>
 							<p>
 								<ul>
 									<li>You should either know something about programming or know something about cultural theory</li>
@@ -263,7 +263,7 @@
 						Macro-economic and geostrategic speculations are made.</p>
 						<p>Finally, encryption and anonymity strategies and theory are addressed, with a mind to defending and asserting the same basic civil rights we uphold in public space.</p>
 						<div class="workshop-meta">
-							<h4>requirements</h4>
+							<h4 class="requirements">requirements</h4>
 								<ul>
 									<li>Participants need to bring a laptop</a>
 									<li>Oliver and Vasiliev provide all students with a customised virtualised Linux operating system, complete with tools familiar to both the hacker and network engineer alike.</li>
