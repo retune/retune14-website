@@ -66,7 +66,7 @@
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Zach Blas (via video-conference)</h2>
-						<p>Zach Blas is an artist, writer, and curator whose work engages technology, queerness, and politics. Currently, he is an Assistant Professor in the Department of Art at the University at Buffalo.</p>
+						<p>Zach Blas is an artist, writer, and curator whose work engages technology, queerness, and politics. He is an Assistant Professor in the Department of Art at the University at Buffalo.</p>
 						<p>Currently, he is producing a body of work that responds to technological control and refusals of political visibility through tactics of escape, disappearance, illegibility, and opacity. One project, <a href="http://www.zachblas.info/projects/facial-weaponization-suite/" target="_blank">Facial Weaponization Suite</a>, produces “collective masks” in community-based workshops that cannot be detected as human faces by biometric facial recognition technologies.</p>
 						<img class="portrait img-circle" src="img/speakers/blas_portrait.jpg" />
 						<div class="website"><a href="http://www.zachblas.info" target="_blank">zachblas.info</a></div>
@@ -171,7 +171,8 @@ challenges the societal norms and standards that make up our conception of human
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Stefano Mirti</h2>
-						<p>Architect, designer, author, MOOC teacher, social media officer for Expo 2015.</p>
+						<p>Stefano Mirti studied architecture and holds a PhD from Torino’s politechnic. He did his post-doctorate study at The University of Tokyo and subsequently teached at the Tama Art University. From 2001 to 2005 he was an associate professor at Interaction Design Institute Ivrea, where he was also in charge of e1 (exhibition unit).</p>
+						<p>As an architect he is one of Cliostraat founders. Between 2006-2010 he was the director of the design school at NABA. Stefano Mirti is partner of Id-lab where he carries out numerous activities.</p>
 						<img class="portrait img-circle" src="img/speakers/mirti_portrait.jpg" />
 						<div class="website"><a href="http://www.interactiondesign-lab.com" target="_blank">interactiondesign-lab.com</a></div>
 						<div id="mirti_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
@@ -218,7 +219,7 @@ challenges the societal norms and standards that make up our conception of human
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>rAndom International</h2>
-						<p>Founded by Stuart Wood, Flo Ortkrass and Hannes Koch in 2005, Random International is a collaborative studio for experimental practice within contemporary art. Taking science as a means to develop a new material vocabulary, their work invites consideration of the man/machine relationship through explorations of behaviour and natural phenomena — with the viewer an active participant. Today the studio is based in Chelsea, London with an outpost in Berlin, and includes a growing team of diverse and complementary talent.</p> 
+						<p>Founded by Stuart Wood, Flo Ortkrass and Hannes Koch in 2005, Random International is a collaborative studio for experimental practice within contemporary art. Taking science as a means to develop a new material vocabulary, their work invites consideration of the man/machine relationship through explorations of behaviour and natural phenomena — with the viewer an active participant. Today the studio is based in Chelsea, London with an outpost in Berlin, and includes a growing team of diverse and complementary talent.</p>
 						<p>Héloïse Reynolds looks after Random International's communications, publications, and archive. After graduating from University College London, she gained her Masters from the Courtauld Institute of Art in 2008. Héloïse writes about the studio's practice and researches into its context and implications, overseeing all publications and exhibition material in addition to events and academic pursuits.</p>
 						<img class="portrait img-circle" src="img/speakers/reynolds_portrait.jpg" />
 						<div class="website"><a href="http://random-international.com" target="_blank">random-international.com</a></div>
