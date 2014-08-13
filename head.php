@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>retune - creative technology conference | 26. - 28.09.2014 berlin</title>        
+<?php
+		$file = basename($_SERVER['PHP_SELF'], '.php'); 
+		if($file == "speakers") { $pagetitle = "speakers | "; } 
+		else if($file == "workshops") { $pagetitle = "workshops | "; }
+		else if($file == "tickets") { $pagetitle = "tickets | "; }
+		else if($file == "about") { $pagetitle = "about | "; }
+		else if($file == "venue") { $pagetitle = "venue | "; }
+		else if($file == "index") { $pagetitle = ""; } 
+	?>
+
+
+        <title><?php echo $pagetitle; ?>retune - creative technology conference | 26. - 28.09.2014 berlin</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- Bootstrap core CSS -->
 	    <link href="css/bootstrap.css" rel="stylesheet">
