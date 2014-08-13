@@ -27,16 +27,16 @@
     	<script src="js/bootstrap.js"></script>
 		<script src="js/jquery.backstretch.js"></script>
     	<script type="text/javascript">
-			// WebFontConfig = { fontdeck: { id: '41866' } };
-			// (function() {
-			// 	var wf = document.createElement('script');
-			// 	wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-			// 	'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-			// 	wf.type = 'text/javascript';
-			// 	wf.async = 'true';
-			// 	var s = document.getElementsByTagName('script')[0];
-			// 	s.parentNode.insertBefore(wf, s);
-			// })();
+			WebFontConfig = { fontdeck: { id: '41866' } };
+			(function() {
+				var wf = document.createElement('script');
+				wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+				'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+				wf.type = 'text/javascript';
+				wf.async = 'true';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(wf, s);
+			})();
 
 			$(document).ready(function() {
 				// smooth scrolling for internal links from here: http://www.paulund.co.uk/smooth-scroll-to-internal-links-with-jquery
