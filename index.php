@@ -33,7 +33,7 @@
 					<a href="http://formulor.de/" alt="formulor lasercut lasercutting" target="_blank"><img src="img/formulor.png" /></a>
 
 					<h1>partner events</h1>
-					<a href="http://fiber-space.nl/" target="_blank"><img src="img/fiber.png" /></a><br/>
+					<a href="http://fiber-space.nl/" target="_blank"><img src="img/FIBER.png" /></a><br/>
 					<a href="http://kikk.be" target="_blank"><img src="img/kikk.png" /></a>
 					<a href="http://www.alpha-ville.co.uk" target="_blank"><img src="img/alphaville.png" style="margin-left:30px"/></a>
 				</div>
