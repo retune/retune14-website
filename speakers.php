@@ -171,10 +171,15 @@ challenges the societal norms and standards that make up our conception of human
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Stefano Mirti</h2>
-						<p>Stefano Mirti studied architecture and holds a PhD from Torino’s politechnic. He did his post-doctorate study at The University of Tokyo and subsequently teached at the Tama Art University. From 2001 to 2005 he was an associate professor at Interaction Design Institute Ivrea, where he was also in charge of e1 (exhibition unit).</p>
-						<p>As an architect he is one of Cliostraat founders. Between 2006-2010 he was the director of the design school at NABA. Stefano Mirti is partner of Id-lab where he carries out numerous activities.</p>
+<p>Designer and teacher. Partner of  <a href="http://www.viacascia6.it/">IdLab</a>. He is responsible for the <a href="http://www.expo2015.org/en/biodiversity-park">Biodiversity Pavilion</a> project for Expo Milan 2015. Together with Susanna Legrenzi he is the head of the <a href="http://www.socialmediaexpo2015.com/">social media team</a> for Expo Milan 2015.</p>
+
+<p>He teaches at <a href="https://sites.google.com/site/bocconidesign/" target="_blank">Bocconi</a> business school in Milan. Head of <a href="http://www.relationaldesign.org/" target="_blank">Relational Design</a> on-line / off-line master (Abadir, Fine Arts Academy Catania). Since years he has been working on new forms of teaching: <a href="http://www.whoami.it/wh/" target="_blank">Whoami</a>, <a href="https://iversity.org/courses/design-101" target="_blank">Design 101</a> and several other projects. You can find the complete archive of his iversity course "Design 101" <a href="http://www.design1o1.net/" target="_blank">here</a>. </p>
 						<img class="portrait img-circle" src="img/speakers/mirti_portrait.jpg" />
-						<div class="website"><a href="http://www.interactiondesign-lab.com" target="_blank">interactiondesign-lab.com</a></div>
+						<div class="website"><a href="http://www.interactiondesign-lab.com" target="_blank">interactiondesign-lab.com</a><br/>
+						<a href="https://twitter.com/stefi_idlab" target="_blank">twitter</a><br/>
+						<a href="http://instagram.com/stefi_idlab" target="_blank">instagram</a><br/>
+						<a href="https://www.facebook.com/stefano.mirti.3" target="_blank">facebook</a>
+						</div>
 						<div id="mirti_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->

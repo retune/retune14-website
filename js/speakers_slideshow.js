@@ -165,11 +165,19 @@ $("#schmidt_small").backstretch([
 ], { fade: 750, duration: 8000 });
 
 $("#mirti_image").backstretch([
-  "img/speakers/mirti_01.jpg"
+  "img/speakers/mirti_01.jpg",
+  "img/speakers/mirti_02.jpg",
+  "img/speakers/mirti_03.jpg",
+  "img/speakers/mirti_04.jpg",
+  "img/speakers/mirti_05.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#mirti_small").backstretch([
-  "img/speakers/mirti_01.jpg"
+  "img/speakers/mirti_01.jpg",
+  "img/speakers/mirti_02.jpg",
+  "img/speakers/mirti_03.jpg",
+  "img/speakers/mirti_04.jpg",
+  "img/speakers/mirti_05.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#cyborgs_image").backstretch([
