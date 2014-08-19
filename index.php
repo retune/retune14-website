@@ -20,16 +20,20 @@
 					<a href="http://wetransfer.com" target="_blank"><img src="img/wetransfer.png" alt="wetransfer"/></a><br/>
 					<a href="http://cloud-film.tv" target="_blank"><img src="img/cloud.png" alt="cloud" /></a>
 					
+					<h1>brand partnerships</h1>
+					<a href="http://www.cromatics.de" target="_blank"><img src="img/CROMATICS.png" alt="CROMATICS Kreativagentur – Wir entwickeln Relationship Playgrounds für die intensive Beziehung zwischen Menschen und Marken"/></a>
+
 					<h1>technical support</h1>
 					<a href="http://serve-u.de" target="_blank"><img src="img/serve-u_color.png" alt="serve-u"/></a>
 				</div>
 
 				<div class="col-sm-6 text-center">
 					<h1>friends and supporters</h1>
-					<a href="http://sonicedevelopment.com" target="_blank"><img src="img/sonice.png" width="220px" alt="sonice development" /></a><br/>
-					<a href="http://studio-regular.com/" target="_blank"><img src="img/StudioRegular.png" width="220px" alt="studio regular grafikdesign" /></a><br/>
+					<a href="http://sonicedevelopment.com" target="_blank"><img src="img/sonice.png" width="220px" alt="sonice development" style="margin-right:20px;"/></a>
 					<a href="http://theconstitute.org/" target="_blank"><img src="img/the_constitute.png" alt="the constitute" /></a><br/>
-					<a href="http://tinkersoup.de/" target="_blank"><img src="img/tinkersoup_color_small.png" alt="tinkersoup" /></a><br/>
+					<a href="http://tinkersoup.de/" target="_blank"><img src="img/tinkersoup_color_small.png" alt="tinkersoup" style="margin-right:20px;"/></a>
+					<a href="http://studio-regular.com/" target="_blank"><img src="img/StudioRegular.png" width="220px" alt="studio regular grafikdesign" /></a><br/>
+					
 					<a href="http://formulor.de/" target="_blank"><img src="img/formulor.png" alt="formulor lasercut lasercutting"/></a>
 
 					<h1>partner events</h1>
