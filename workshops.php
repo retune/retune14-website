@@ -137,7 +137,7 @@
 				</div> <!-- /speaker_info -->
 
 				<div id="glemmer_image" class="workshop_images col-md-6 hidden-sm hidden-xs" style="position: fixed; right:0; height: 100%; background-color: white;">
-					<img src="img/workshops/glemmer.gif" style="width:100%;"/>
+					<img src="img/workshops/glemmer.gif" style="width:100%;" alt="glemmer workshop"/>
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->	
 
@@ -158,12 +158,12 @@
 									<li>You need to bring your own computer with any of the 3 supported desktop platforms: Linux, OSX or Windows</li>
 									<li>If possible you should also come with the required software preinstalled. Install guides and downloads can be found here: <a href="http://openframeworks.cc/setup" target="_blank">openframeworks.cc/setup</a></li>
 								</ul>
-								<p>
-									<a href="http://openframeworks.cc" target="_blank">openframeworks.cc</a><br/>
-									<a href="http://openframeworks.cc/gallery" target="_blank">openframeworks.cc/gallery</a><br/>
-									<a href="http://www.creativeapplications.net/category/openframeworks/" target="_blank">openFrameworks projects on CreativeApplications.net</a><br/>
-									<a href="http://vimeo.com/search?q=openframeworks" target="_blank">Videos of openFrameworks projects</a>
-								</p>
+								
+								<a href="http://openframeworks.cc" target="_blank">openframeworks.cc</a><br/>
+								<a href="http://openframeworks.cc/gallery" target="_blank">openframeworks.cc/gallery</a><br/>
+								<a href="http://www.creativeapplications.net/category/openframeworks/" target="_blank">openFrameworks projects on CreativeApplications.net</a><br/>
+								<a href="http://vimeo.com/search?q=openframeworks" target="_blank">Videos of openFrameworks projects</a>
+								
 						</div>
 
 						<div id="openframeworks_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
@@ -295,17 +295,13 @@
 
 						<div class="workshop-meta">
 							<h4 class="requirements">requirements</h4>
-							<p>
-								<ul>
-									<li>Level: beginner/intermediate</li>
-									<li>Software experience: Modul8, resolume, MADMAPPER, MWM, ABLETON LIVE, ADOBE CREATIVE SUITE, FINAL CUT STUDIO.</li>
-									<li>Hardware Core2Duo / 2Gb RAM / 512Mb video</li>
-								</ul>
-							</p>
-							<p>
-								<a href="https://www.youtube.com/watch?v=wHw9h_Z0fNs" target="_blank">Workshop teaser from Forum da Maia (Portugal)</a><br/>
-								<a href="https://www.berlinerpool.de/" target="_blank">berlinerpool.de</a>
-							</p>
+							<ul>
+								<li>Level: beginner/intermediate</li>
+								<li>Software experience: Modul8, resolume, MADMAPPER, MWM, ABLETON LIVE, ADOBE CREATIVE SUITE, FINAL CUT STUDIO.</li>
+								<li>Hardware Core2Duo / 2Gb RAM / 512Mb video</li>
+							</ul>
+							<a href="https://www.youtube.com/watch?v=wHw9h_Z0fNs" target="_blank">Workshop teaser from Forum da Maia (Portugal)</a><br/>
+							<a href="https://www.berlinerpool.de/" target="_blank">berlinerpool.de</a>
 						</div>
 
 						<div id="vj_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
