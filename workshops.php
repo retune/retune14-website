@@ -52,7 +52,7 @@
 							<a href="https://twitter.com/Prot_Int" target="_blank">twitter</a>
 						</div>
 
-						<div id="interface_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="interface_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -89,7 +89,7 @@
 								
 						</div>
 
-						<div id="vvvv_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="vvvv_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -132,7 +132,7 @@
 							<a href="http://www.signalfluss.de" target="_blank">signalfluss.de</a>
 						</div>
 
-						<div id="glemmer_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"><img src="img/workshops/glemmer.gif" style="width:100%;"/></div>
+						<div id="glemmer_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"><img src="img/workshops/glemmer.gif" style="width:100%;" alt="glemmer workshop" /></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -160,7 +160,7 @@
 								</ul>
 								<p>
 									<a href="http://openframeworks.cc" target="_blank">openframeworks.cc</a><br/>
-									<a href="http://openframeworks.cc/gallery" target="_blank">openframeworks.cc/gallery <br/>
+									<a href="http://openframeworks.cc/gallery" target="_blank">openframeworks.cc/gallery</a><br/>
 									<a href="http://www.creativeapplications.net/category/openframeworks/" target="_blank">openFrameworks projects on CreativeApplications.net</a><br/>
 									<a href="http://vimeo.com/search?q=openframeworks" target="_blank">Videos of openFrameworks projects</a>
 								</p>
@@ -201,7 +201,7 @@
 							<a href="http://www.laydrop.com/" target="_blank">laydrop.com</a>
 						</div>
 
-						<div id="3d_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="3d_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -221,17 +221,13 @@
 						<p>Participants can order and read the book by Alan Shapiro: "Die Software der Zukunft: Das Modell geht der Realitat voraus" (Walther Koenig Verlag, 2014, 8 Euros)</p>
 						<div class="workshop-meta">
 							<h4 class="requirements">requirements</h4>
-							<p>
-								<ul>
-									<li>You should either know something about programming or know something about cultural theory</li>
-									<li>No previous programming experience required</li>
-									<li>Participants should bring their own Windows or Mac laptop. If possible, they should have downloaded Eclipse</li>
-								</ul>
-							</p>
-							<p>
-								<a href="http://alan-shapiro.com" target="_blank">alan-shapiro.com</a><br/>
-								<a href="http://www.hfg-offenbach.de/shapiro" target="_blank">www.hfg-offenbach.de/shapiro</a>
-							</p>
+							<ul>
+								<li>You should either know something about programming or know something about cultural theory</li>
+								<li>No previous programming experience required</li>
+								<li>Participants should bring their own Windows or Mac laptop. If possible, they should have downloaded Eclipse</li>
+							</ul>
+							<a href="http://alan-shapiro.com" target="_blank">alan-shapiro.com</a><br/>
+							<a href="http://www.hfg-offenbach.de/shapiro" target="_blank">www.hfg-offenbach.de/shapiro</a>
 						</div>
 
 						<div id="superobjects_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
@@ -266,7 +262,7 @@
 						<div class="workshop-meta">
 							<h4 class="requirements">requirements</h4>
 							<ul>
-								<li>Participants need to bring a laptop</a>
+								<li>Participants need to bring a laptop</li>
 								<li>Oliver and Vasiliev provide all students with a customised virtualised Linux operating system, complete with tools familiar to both the hacker and network engineer alike.</li>
 								<li>Complete documentation is provided.</li>
 							</ul>
@@ -312,7 +308,7 @@
 							</p>
 						</div>
 
-						<div id="vj_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="vj_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -336,7 +332,7 @@
 						<p>CCLs are an outcome of <a href="http://motionbank.org" target="_blank">Motion Bank</a>, a four-year research project of The Forsythe Company focused on the creation of digital dance scores with guest choreographers. This research involved the study, documentation and analysis of unique choreographic approaches, and the datasets and tools used behind the development of the Motion Bank scores will be made available for the CCLs which are curated in collaboration with NODE Forum as a high-level, intensive environment that maximizes interaction and exchange over a period of five days.</p>
 						<p>The week will be enriched by lightning talks by members of the Motion Bank research team and network aimed to inspire and provoke participants with new perspectives and experiences. There is no fee for participation, but applicants are asked to propose starting points and ideas. The space and basic equipment will be provided. Collaborative teams involving choreographers/dancers interested in the Motion Bank research approach are very much encouraged to apply.</p>
 						<div class="website">Apply here: <a href="http://choreographiccoding.org/#lab-retune-2014-form" target="_blank">choreographiccoding.org</a></div>
-						<div id="ccl_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="ccl_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
