@@ -98,6 +98,20 @@ $("#superobjects_small").backstretch([
   "img/workshops/superobjects_01.jpg"
 ], { fade: 750, duration: 8000 });
 
+$("#vj_image").backstretch([
+  "img/workshops/vj_03.jpg",
+  "img/workshops/vj_02.jpg",
+  "img/workshops/vj_01.jpg",
+  "img/workshops/vj_04.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#vj_small").backstretch([
+  "img/workshops/vj_03.jpg",
+  "img/workshops/vj_02.jpg",
+  "img/workshops/vj_01.jpg",
+  "img/workshops/vj_04.jpg"
+], { fade: 750, duration: 8000 });
+
 // pre-load images
 // if(document.images){
 // 	var image1 = new Image()

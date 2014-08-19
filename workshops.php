@@ -9,15 +9,16 @@
 				<nav>
 					<ul class="nav">
 						<li style="font-size: 20px; margin-bottom: 3px; font-family:'Apercu Regular', Calibri, sans-serif; font-weight:normal; font-style:normal;">Regular Workshops</li>
-						<li><a href="#interfaces">prototyping interfaces</a></li>
+						<li><a href="#interfaces" style="letter-spacing: 1px;">prototyping interfaces</a></li>
 						<li><a href="#vvvv">vvvv</a></li>
 						<li><a href="#glemmer">glemmer</a></li>
 						<li><a href="#openframeworks">openframeworks</a></li>
-						<li><a href="#3d">3d scanning and printing</a></li>
+						<li><a href="#3d" style="letter-spacing: 1px;">3d scanning and printing</a></li>
 						<li><a href="#superobjects">superobjects Paradigm</a></li>
 						
 						<li style="font-size: 20px; margin-top: 20px; margin-bottom: 3px; font-family:'Apercu Regular', Calibri, sans-serif; font-weight:normal; font-style:normal;">Extended Workshops</li>
-						<li><a href="#networkshop" style="letter-spacing: 1px;">NETworkshop</a></li>
+						<li><a href="#networkshop">NETworkshop</a></li>
+						<li><a href="#vj" style="letter-spacing: 2px;">real time video tools</a></li>
 						<li><a href="#ccl" style="letter-spacing: 1px;">Choreographic Coding Lab</a></li>
 					</ul>
 				</nav>
@@ -219,6 +220,7 @@
 						<h4>by Alan N. Shapiro<br/>1 day | 26.09.2014, 10:00 – 16:00<br/>30€ (student: 24€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
 						<p>This workshop introduces the superobjects coding project. The first immediate goal of my work to change the profile of who programmers are. To get away from the idea that programmers are mathematical-logical-engineering types and transform coding into a creative art form. There was a major paradigm shift in programming abouts three decade ago from the procedural paradigm to the object-oriented paradigm. What I am arguing for is a paradigm shift to a third paradigm, partly based on a further extrapolation of the shift from the first to the second paradigms. Programming so far has consisted of sending instructions to a machine or dead thing, basing software on the metaphor of the mechanistic machine. In the superobjects paradigm, software is considered semi-alive, based on the metaphor of the living organism as an information system. Code will be poetic. Existing programming is based on the logic of the discrete. Crucial in the new programming is a logic of similarities or resonances. We will also discuss the first practical applications of the superobjects paradigm in the conversational flow area of Spoken Dialog Technology and in software for dance choreography.</p>
 						<p><em>Alan N. Shapiro</em> is a trans-disciplinary thinker who studied science-technology at MIT and philosophy-history-literature at Cornell University. He is the author or editor of three books: Star Trek: Technologies of Disappearance, Software of the Future, and The Technological Herbarium. He is senior lecturer in informatics and media theory at the Art and Design University, Offenbach.</p>
+						<p>Participants can order and read the book by Alan Shapiro: "Die Software der Zukunft: Das Modell geht der Realitat voraus" (Walther Koenig Verlag, 2014, 8 Euros)</p>
 						<div class="workshop-meta">
 							<h4 class="requirements">requirements</h4>
 							<p>
@@ -246,6 +248,7 @@
 					</nav>
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->	
+
 
 			<!-- WORKSHOP 2 -->
 	    	<div class="row" id="networkshop">
@@ -286,6 +289,45 @@
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->	
 
+			<!-- vj -->
+	    	<div class="row" id="vj">
+				<div class="workshop_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
+						<h2>REAL TIME VIDEO TOOLS</h2>					
+						<h3>Organized and hosted by <a href="https://berlinerpool.de" target="_blank">Berliner Pool</a></h3>
+						<h4>by Lucas Gutierrez and Klaas von Karlos<br/>2 days | 24. & 25.09.2014, 18:00 – 22:00<br/>presentation: 26.09.2014 at retune.<br/>130€ (members of Berliner Pool and FabLab Berlin: 60€)<br/>– <a href="http://form.jotformpro.com/form/42296842650964?">REGULAR SIGNUP</a> / <a href="http://form.jotformpro.com/form/42302847979971?" target="_blank">MEMBER SIGNUP</a></h4>
+						<p>The Real-Time VJ Tools workshop is an open-collaborative environment in which participants will use their creative and technical backgrounds to develop an unrealized real-time audiovisual or VJ performance. Over the course of the three days, and under the guidance of the two instructors, the participants will be introduced to the live performance capabilities of softwares such as Resolume, Modul8, Ableton Live, and others. Additionally, attendees are encouraged to bring ideas for mixed media presentations utilizing cameras, still images, movement, web cameras, and any digital/analog techniques that will contribute to their project. On the final day of the workshop, participants will present a brief performance at an open event/exhibition. Workshop is organized by Berlinerpool Arts Network, in a framework of LEARN_it program.</p>
+						<p><em>Lucas Gutierrez:</em> Digital Artist and Industrial Designer Argentinean from Argentina. He has participated and exhibited his works in well known national and international festivals such as: Offf-Post-Digital Creation Culture (Lisbon), GET SET Art Festival 2012 (Porto), LPM – Live Performers Meeting 2013 (Rome), 180 CreativEcamp 2013 (Abrantes), Genus Loci (Weimar) and others.</p>
+						<p><em>Klaas von Karlos:</em> Jon-Carlos Evans is a Berlin based fIlmmaker, audiovisual artist and writer. Past international audiovisual performances included the RE/Mixed NYC Media Festival, Live Performers Meeting Rome, Dimanche Rouge Experimental Festival – Paris, After Dimanche Rouge, add Mashrome Film Festival, amongst others.</p>
+						<p>2 days will take place in Berlinerpool venue (Tieckstrasse 1a) and the final presentation with live show - in Retune (Arena Glashaus).</p>
+
+						<div class="workshop-meta">
+							<h4 class="requirements">requirements</h4>
+							<p>
+								<ul>
+									<li>Level: beginner/intermediate</li>
+									<li>Software experience: Modul8, resolume, MADMAPPER, MWM, ABLETON LIVE, ADOBE CREATIVE SUITE, FINAL CUT STUDIO.</li>
+									<li>Hardware Core2Duo / 2Gb RAM / 512Mb video</li>
+								</ul>
+							</p>
+							<p>
+								<a href="https://www.youtube.com/watch?v=wHw9h_Z0fNs" target="_blank">Workshop teaser from Forum da Maia (Portugal)</a><br/>
+								<a href="https://www.berlinerpool.de/" target="_blank">berlinerpool.de</a>
+							</p>
+						</div>
+
+						<div id="vj_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+
+				<div id="vj_image" class="workshop_images col-md-6 hidden-sm hidden-xs" style="position: fixed; right:0;">
+					<nav class="nav_images">
+						<a href="javascript:previousImage('vj')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('vj')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+			</div> <!-- /row -->	
 
 			<!-- CCL -->
 	    	<div class="row" id="ccl">
