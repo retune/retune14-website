@@ -46,12 +46,10 @@
 								<li>A three button mouse</li>
 								<li>Ideally you should also bring an Arduino with you with an analog sensor of your choice attached. Please make sure to install the “Standard Firmata” on your Arduino.</li>
 							</ul>
-							</p>	
-							<p><a href="http://prototypinginterfaces.com" target="_blank">prototypinginterfaces.com</a><br/>	
-								<a href="http://vimeo.com/69172966" target="_blank">vimeo</a><br/>
-								<a href="https://www.facebook.com/pages/Prototyping-Interfaces/415532511856002?ref=hl" target="_blank">facebook</a><br/>
-								<a href="https://twitter.com/Prot_Int" target="_blank">twitter</a>
-							</p>
+							<a href="http://prototypinginterfaces.com" target="_blank">prototypinginterfaces.com</a><br/>	
+							<a href="http://vimeo.com/69172966" target="_blank">vimeo</a><br/>
+							<a href="https://www.facebook.com/pages/Prototyping-Interfaces/415532511856002?ref=hl" target="_blank">facebook</a><br/>
+							<a href="https://twitter.com/Prot_Int" target="_blank">twitter</a>
 						</div>
 
 						<div id="interface_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
@@ -134,7 +132,7 @@
 							<a href="http://www.signalfluss.de" target="_blank">signalfluss.de</a>
 						</div>
 
-						<div id="glemmer_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"><img src="img/workshops/glemmer.gif" style="width:100%;"/></div>
+						<div id="glemmer_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"><img src="img/workshops/glemmer.gif" style="width:100%;"/></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -163,12 +161,12 @@
 								<p>
 									<a href="http://openframeworks.cc" target="_blank">openframeworks.cc</a><br/>
 									<a href="http://openframeworks.cc/gallery" target="_blank">openframeworks.cc/gallery <br/>
-									<a href="http://www.creativeapplications.net/category/openframeworks/" target="_blank">openFrameworks projects on CreativeApplications.net<br/>
-									<a href="http://vimeo.com/search?q=openframeworks" target="_blank">Videos of openFrameworks projects
+									<a href="http://www.creativeapplications.net/category/openframeworks/" target="_blank">openFrameworks projects on CreativeApplications.net</a><br/>
+									<a href="http://vimeo.com/search?q=openframeworks" target="_blank">Videos of openFrameworks projects</a>
 								</p>
 						</div>
 
-						<div id="openframeworks_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="openframeworks_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -236,7 +234,7 @@
 							</p>
 						</div>
 
-						<div id="superobjects_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						<div id="superobjects_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
@@ -267,16 +265,14 @@
 						<p>Finally, encryption and anonymity strategies and theory are addressed, with a mind to defending and asserting the same basic civil rights we uphold in public space.</p>
 						<div class="workshop-meta">
 							<h4 class="requirements">requirements</h4>
-								<ul>
-									<li>Participants need to bring a laptop</a>
-									<li>Oliver and Vasiliev provide all students with a customised virtualised Linux operating system, complete with tools familiar to both the hacker and network engineer alike.</li>
-									<li>Complete documentation is provided.</li>
-								</ul>
-							</div>
-						<div id="networkshop_small" style="height:350px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-
+							<ul>
+								<li>Participants need to bring a laptop</a>
+								<li>Oliver and Vasiliev provide all students with a customised virtualised Linux operating system, complete with tools familiar to both the hacker and network engineer alike.</li>
+								<li>Complete documentation is provided.</li>
+							</ul>
+						</div>
+						<div id="networkshop_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
-					
 				</div> <!-- /speaker_info -->
 
 
