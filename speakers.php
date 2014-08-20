@@ -18,6 +18,7 @@
 						<li><a href="#random">Random International</a></li>
 						<li><a href="#sauter">Joachim Sauter</a></li>
 						<li><a href="#schmidt">Karsten Schmidt</a></li>
+						<li><a href="#shalom">Gabriel Shalom</a></li>
 						<li><a href="#smigla-bobinski" style="letter-spacing:1px;">Karina Smigla-Bobinski</a></li>
 						<li><a href="#uva">United Visual Artists</a></li>
 						<li><a href="#visnjic">Filip Visnjic</a></li>
@@ -283,6 +284,32 @@ challenges the societal norms and standards that make up our conception of human
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->			
 			</div> <!-- /row -->
+
+			<!-- 
+				Gabriel Shalom
+			 -->
+			<div class="row" id="shalom">
+				<div class="speaker_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
+						<h2>Gabriel Shalom</h2>
+						<p>Gabriel Shalom (US/UK) is an artist living and working in Berlin, Germany. His practice combines elements of experimental cinema, video art and musique concrète. He explores the hidden musicality in everyday objects, instruments and situations, using music as a vehicle for the transformation of the mundane into transcendent compositions and patterns. His 2014 audiovisual EP "<a href="http://facesofn.com/" target="_blank">Faces of N.</a>" has been compared to the music of Matthew Herbert and Matmos by the editor of Italian Rolling Stone. He has guest lectured on <a href="http://gabrielshalom.com/theory" target="_blank">Hypercubism</a>, his theory of object oriented aesthetics, at institutions such as the Paris Sorbonne, the Finnish Academy of Fine Arts, and the Bauhaus University, Weimar.</p>
+							<p>As a director/composer, he has been commissioned by brands such as MINI, Sephora, Sony and BMW Italy. He is the creative director of <a href="http://ks12.net" target="_blank">KS12</a>. He is a member of the ADC Young Guns class of 2012 and a fellow of the Salzburg Global Seminar. In collaboration with designer Patrizia Kommerell and inventor Jay Cousins he is the producer of a <a href="http://betabook.co" target="_blank">whiteboard tablet</a> set for a global product launch in autumn 2014.</p>
+						<img class="portrait img-circle" src="img/speakers/shalom_portrait.jpg" />
+						<div class="website"><a href="http://gabrielshalom.com" target="_blank">gabrielshalom.com</a></div>
+						<div id="shalom_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+						
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+
+				<div id="shalom_image" class="speaker_images col-md-6 hidden-sm hidden-xs">					
+					<nav class="nav_images">
+						<a href="javascript:previousImage('shalom')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('shalom')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+			</div> <!-- /row -->	
+
 
 			<!-- 
 				Smigla-Bobinski

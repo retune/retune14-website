@@ -190,6 +190,18 @@ $("#cyborgs_small").backstretch([
   "img/speakers/cyborgs_02.jpg"
 ], { fade: 750, duration: 8000 });
 
+$("#shalom_image").backstretch([
+  "img/speakers/shalom_01.jpg",
+  "img/speakers/shalom_02.jpg",
+  "img/speakers/shalom_03.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#shalom_small").backstretch([
+  "img/speakers/shalom_01.jpg",
+  "img/speakers/shalom_02.jpg",
+  "img/speakers/shalom_03.jpg"
+], { fade: 750, duration: 8000 });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        
