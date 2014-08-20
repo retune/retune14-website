@@ -39,7 +39,8 @@
 					<h1>partner events</h1>
 					<a href="http://fiber-space.nl/" target="_blank"><img src="img/FIBER.png" alt="fiber festival" /></a><br/>
 					<a href="http://kikk.be" target="_blank"><img src="img/kikk.png"  alt="kikk festival" /></a>
-					<a href="http://www.alpha-ville.co.uk" target="_blank"><img src="img/alphaville.png" style="margin-left:30px" alt="alpha ville"/></a>
+					<a href="http://www.alpha-ville.co.uk" target="_blank"><img src="img/alphaville.png" style="margin-left:30px" alt="alpha ville"/></a><br/>
+					<a href="http://www.beyondbiennale.nl/discovery%20festival/home/" target="_blank"><img src="img/discovery.png" alt="discovery festival amsterdam"/></a>
 				</div>
 			</div>
 
