@@ -13,7 +13,8 @@
 					<p>All prices include "Umsatzsteuer" (VAT) of 19%. By buying a ticket you agree to our <a href="terms" target="_blank">Terms of Service</a>.
 						<p>If you have questions, get in touch: tickets /at/ retune /dot/ de</p>
 					<div id='tito-register-form'></div>
-					<script src='https://beta.tito.io/retune/retune-2014.js?version=3' type='text/javascript'></script>
+					<!--script src='https://beta.tito.io/retune/retune-2014.js?version=3' type='text/javascript'></script>-->
+					<script src='https://ti.to/retune/retune-2014.js?version=3' type='text/javascript'></script>
 				</div> <!-- /speaker_info -->
 			</div> <!-- /row -->
 
