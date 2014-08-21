@@ -271,7 +271,7 @@ challenges the societal norms and standards that make up our conception of human
 				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
-						<h2>Joachim Sauter</h2>
+						<h2 style="line-height: 1.5em;">Joachim Sauter | ART+COM STUDIOS</h2>
 						<p>After graduating from the academy of fine arts in Berlin, Joachim Sauter studied at the 'German Academy for Film and Television', Berlin. Since the early 1980s, he has been working as a media artist and designer. From the beginning, Joachim has focussed on digital technologies and is experimenting how they can be used to express content, form, and narration.</p>
 						<p>Fuelled by this interest, he founded ART+COM in 1988 together with other artists, designers, scientists and technologists. Their goal was to practically research this new up-and-coming medium in the realm of art and design. Until now, he is leading this interdisciplinary group as a Creative Director.</p>
 						<p>Since 1991 he is full professor for "New Media Art and Design" at the 'University of the Arts' Berlin and since 2001 adjunct professor at UCLA, Los Angeles. </p>
