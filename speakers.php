@@ -12,6 +12,7 @@
 						<li><a href="#blas">Zach Blas</a></li>
 						<li><a href="#cyborgs">Cyborgs e.V.</a></li>
 						<li><a href="#franco">Anaisa Franco</a></li>
+						<li><a href="#geist">Moritz Simon Geist</a></li>
 						<li><a href="#gohl">Jarii van Gohl</a></li>
 						<li><a href="#mirti">Stefano Mirti</a></li>
 						<li><a href="#quaranta">Domenico Quaranta</a></li>
@@ -132,11 +133,41 @@ challenges the societal norms and standards that make up our conception of human
 				</div> <!-- /speaker_info -->
 			</div> <!-- /row -->
 
-			
+			<!-- 
+				Geist
+			 -->
+			<div class="row" id="geist"> 
+				<div class="speaker_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+						<h2>Moritz Simon Geist</h2>
+						<p>Moritz Simon Geist, born in 1981, music performance with musical robots. His projects range from tonal hacking to robotics and automated robotic instrument, adding a new perspective to the “man-machine-interface”.</p>
+						<p>But his installations go beyond the basic physical and technical demand: the main theme is rather the transition from a deterministic (usually binary) system into the physical and mechanical world. This transformation entains an greater stress on the “error” of the physical world and lets the object be both more tangible and vulnerable. Moritz Simon Geist lives and works in Dresden, Germany.</p>
+						<img class="portrait img-circle" src="img/speakers/geist_portrait.jpg" />
+						<div class="website"><a href="http://sonicrobots.com" target="_blank">sonicrobots.com</a></div>
+						<div id="geist_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+				<div id="geist_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images">
+						<a href="javascript:previousImage('geist')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('geist')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+			</div> <!-- /row -->
+
 			<!-- 
 				Jarii van Gohl
 			 -->
 			<div class="row" id="gohl"> 
+				<div id="gohl_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images left">
+						<a href="javascript:previousImage('gohl')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('gohl')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Jarii van Gohl</h2>
@@ -147,13 +178,7 @@ challenges the societal norms and standards that make up our conception of human
 						<div id="gohl_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
-				<div id="gohl_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images">
-						<a href="javascript:previousImage('gohl')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('gohl')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
+				
 			</div> <!-- /row -->
 
 
@@ -161,35 +186,41 @@ challenges the societal norms and standards that make up our conception of human
 				STEFANO MIRTI
 			 -->
 			<div class="row" id="mirti"> 
+				<div class="speaker_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+						<h2>Stefano Mirti</h2>
+						<p>Designer and teacher. Partner of  <a href="http://www.viacascia6.it/">IdLab</a>. He is responsible for the <a href="http://www.expo2015.org/en/biodiversity-park">Biodiversity Pavilion</a> project for Expo Milan 2015. Together with Susanna Legrenzi he is the head of the <a href="http://www.socialmediaexpo2015.com/">social media team</a> for Expo Milan 2015.</p>
+						<p>He teaches at <a href="https://sites.google.com/site/bocconidesign/" target="_blank">Bocconi</a> business school in Milan. Head of <a href="http://www.relationaldesign.org/" target="_blank">Relational Design</a> on-line / off-line master (Abadir, Fine Arts Academy Catania). Since years he has been working on new forms of teaching: <a href="http://www.whoami.it/wh/" target="_blank">Whoami</a>, <a href="https://iversity.org/courses/design-101" target="_blank">Design 101</a> and several other projects. You can find the complete archive of his iversity course "Design 101" <a href="http://www.design1o1.net/" target="_blank">here</a>. </p>
+						<img class="portrait img-circle" src="img/speakers/mirti_portrait.jpg" />
+						<div class="website"><a href="http://www.interactiondesign-lab.com" target="_blank">interactiondesign-lab.com</a><br/>
+							<a href="https://twitter.com/stefi_idlab" target="_blank">twitter</a><br/>
+							<a href="http://instagram.com/stefi_idlab" target="_blank">instagram</a><br/>
+							<a href="https://www.facebook.com/stefano.mirti.3" target="_blank">facebook</a>
+						</div>
+						<div id="mirti_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+
 				<div id="mirti_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images left">
+					<nav class="nav_images">
 						<a href="javascript:previousImage('mirti')"><span class="glyphicon glyphicon-chevron-left"></span></a>
 						<a href="javascript:nextImage('mirti')"><span class="glyphicon glyphicon-chevron-right"></span></a>
 						images
 					</nav>
 				</div> <!-- /speaker_images -->
-
-				<div class="speaker_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
-						<h2>Stefano Mirti</h2>
-<p>Designer and teacher. Partner of  <a href="http://www.viacascia6.it/">IdLab</a>. He is responsible for the <a href="http://www.expo2015.org/en/biodiversity-park">Biodiversity Pavilion</a> project for Expo Milan 2015. Together with Susanna Legrenzi he is the head of the <a href="http://www.socialmediaexpo2015.com/">social media team</a> for Expo Milan 2015.</p>
-
-<p>He teaches at <a href="https://sites.google.com/site/bocconidesign/" target="_blank">Bocconi</a> business school in Milan. Head of <a href="http://www.relationaldesign.org/" target="_blank">Relational Design</a> on-line / off-line master (Abadir, Fine Arts Academy Catania). Since years he has been working on new forms of teaching: <a href="http://www.whoami.it/wh/" target="_blank">Whoami</a>, <a href="https://iversity.org/courses/design-101" target="_blank">Design 101</a> and several other projects. You can find the complete archive of his iversity course "Design 101" <a href="http://www.design1o1.net/" target="_blank">here</a>. </p>
-						<img class="portrait img-circle" src="img/speakers/mirti_portrait.jpg" />
-						<div class="website"><a href="http://www.interactiondesign-lab.com" target="_blank">interactiondesign-lab.com</a><br/>
-						<a href="https://twitter.com/stefi_idlab" target="_blank">twitter</a><br/>
-						<a href="http://instagram.com/stefi_idlab" target="_blank">instagram</a><br/>
-						<a href="https://www.facebook.com/stefano.mirti.3" target="_blank">facebook</a>
-						</div>
-						<div id="mirti_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->
 			</div> <!-- /row -->
 
 			<!-- 
 				DOMENICO QUARANTA
 			 -->
 			<div class="row" id="quaranta"> 
+				<div id="quaranta_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images left">
+						<a href="javascript:previousImage('quaranta')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('quaranta')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Domenico Quaranta</h2>
@@ -201,27 +232,12 @@ challenges the societal norms and standards that make up our conception of human
 						<div id="quaranta_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
-
-				<div id="quaranta_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images">
-						<a href="javascript:previousImage('quaranta')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('quaranta')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
 
 			<!-- 
 				RANDOM INTERNATIONAL
 			 -->
 			<div class="row" id="random"> 
-				<div id="random_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images left">
-						<a href="javascript:previousImage('random')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('random')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>rAndom International</h2>
@@ -232,6 +248,13 @@ challenges the societal norms and standards that make up our conception of human
 						<div id="random_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
+				<div id="random_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images">
+						<a href="javascript:previousImage('random')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('random')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
 
 
@@ -239,6 +262,13 @@ challenges the societal norms and standards that make up our conception of human
 				JOACHIM SAUTER
 			 -->
 			<div class="row" id="sauter"> 
+				<div id="sauter_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images left">
+						<a href="javascript:previousImage('sauter')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('sauter')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Joachim Sauter</h2>
@@ -249,15 +279,7 @@ challenges the societal norms and standards that make up our conception of human
 						<div class="website"><a href="http://www.joachimsauter.com" target="_blank">joachimsauter.com</a></div>
 						<div id="sauter_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->
-				<div id="sauter_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images">
-						<a href="javascript:previousImage('sauter')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('sauter')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
-				
+				</div> <!-- /speaker_info -->			
 			</div> <!-- /row -->
 
 			
@@ -265,13 +287,6 @@ challenges the societal norms and standards that make up our conception of human
 				KARSTEN SCHMIDT
 			 -->
 			<div class="row" id="schmidt"> 
-				<div id="schmidt_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
-					<nav class="nav_images left">
-						<a href="javascript:previousImage('schmidt')"><span class="glyphicon glyphicon-chevron-left"></span></a>
-						<a href="javascript:nextImage('schmidt')"><span class="glyphicon glyphicon-chevron-right"></span></a>
-						images
-					</nav>
-				</div> <!-- /speaker_images -->
 				<div class="speaker_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Karsten Schmidt</h2>
@@ -282,32 +297,40 @@ challenges the societal norms and standards that make up our conception of human
 						<div class="website"><a href="http://postspectacular.com" target="_blank">postspectacular.com</a></div>
 						<div id="schmidt_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
 					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->			
+				</div> <!-- /speaker_info -->	
+
+				<div id="schmidt_image" class="speaker_images col-md-6 hidden-sm hidden-xs">			
+					<nav class="nav_images">
+						<a href="javascript:previousImage('schmidt')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('schmidt')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+						
 			</div> <!-- /row -->
 
 			<!-- 
 				Gabriel Shalom
 			 -->
 			<div class="row" id="shalom">
-				<div class="speaker_info col-md-6 col-xs-12">
-					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
-						<h2>Gabriel Shalom</h2>
-						<p>Gabriel Shalom (US/UK) is an artist living and working in Berlin, Germany. His practice combines elements of experimental cinema, video art and musique concrète. He explores the hidden musicality in everyday objects, instruments and situations, using music as a vehicle for the transformation of the mundane into transcendent compositions and patterns. His 2014 audiovisual EP "<a href="http://facesofn.com/" target="_blank">Faces of N.</a>" has been compared to the music of Matthew Herbert and Matmos by the editor of Italian Rolling Stone. He has guest lectured on <a href="http://gabrielshalom.com/theory" target="_blank">Hypercubism</a>, his theory of object oriented aesthetics, at institutions such as the Paris Sorbonne, the Finnish Academy of Fine Arts, and the Bauhaus University, Weimar.</p>
-							<p>As a director/composer, he has been commissioned by brands such as MINI, Sephora, Sony and BMW Italy. He is the creative director of <a href="http://ks12.net" target="_blank">KS12</a>. He is a member of the ADC Young Guns class of 2012 and a fellow of the Salzburg Global Seminar. In collaboration with designer Patrizia Kommerell and inventor Jay Cousins he is the producer of a <a href="http://betabook.co" target="_blank">whiteboard tablet</a> set for a global product launch in autumn 2014.</p>
-						<img class="portrait img-circle" src="img/speakers/shalom_portrait.jpg" />
-						<div class="website"><a href="http://gabrielshalom.com" target="_blank">gabrielshalom.com</a></div>
-						<div id="shalom_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
-						
-					</div> <!-- /description -->
-				</div> <!-- /speaker_info -->
-
 				<div id="shalom_image" class="speaker_images col-md-6 hidden-sm hidden-xs">					
-					<nav class="nav_images">
+					<nav class="nav_images left">
 						<a href="javascript:previousImage('shalom')"><span class="glyphicon glyphicon-chevron-left"></span></a>
 						<a href="javascript:nextImage('shalom')"><span class="glyphicon glyphicon-chevron-right"></span></a>
 						images
 					</nav>
 				</div> <!-- /speaker_images -->
+
+				<div class="speaker_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" >
+						<h2>Gabriel Shalom</h2>
+						<p>Gabriel Shalom (US/UK) is an artist living and working in Berlin, Germany. His practice combines elements of experimental cinema, video art and musique concrète. He explores the hidden musicality in everyday objects, instruments and situations, using music as a vehicle for the transformation of the mundane into transcendent compositions and patterns. His 2014 audiovisual EP "<a href="http://facesofn.com/" target="_blank">Faces of N.</a>" has been compared to the music of Matthew Herbert and Matmos by the editor of Italian Rolling Stone. He has guest lectured on <a href="http://gabrielshalom.com/theory" target="_blank">Hypercubism</a>, his theory of object oriented aesthetics, at institutions such as the Paris Sorbonne, the Finnish Academy of Fine Arts, and the Bauhaus University, Weimar.</p>
+						<p>As a director/composer, he has been commissioned by brands such as MINI, Sephora, Sony and BMW Italy. He is the creative director of <a href="http://ks12.net" target="_blank">KS12</a>. He is a member of the ADC Young Guns class of 2012 and a fellow of the Salzburg Global Seminar. In collaboration with designer Patrizia Kommerell and inventor Jay Cousins he is the producer of a <a href="http://betabook.co" target="_blank">whiteboard tablet</a> set for a global product launch in autumn 2014.</p>
+						<img class="portrait img-circle" src="img/speakers/shalom_portrait.jpg" />
+						<div class="website"><a href="http://gabrielshalom.com" target="_blank">gabrielshalom.com</a></div>
+						<div id="shalom_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->				
 			</div> <!-- /row -->	
 
 

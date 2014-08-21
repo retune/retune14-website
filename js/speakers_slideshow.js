@@ -202,6 +202,20 @@ $("#shalom_small").backstretch([
   "img/speakers/shalom_03.jpg"
 ], { fade: 750, duration: 8000 });
 
+$("#geist_image").backstretch([
+  "img/speakers/geist_01.jpg",
+  "img/speakers/geist_02.jpg",
+  "img/speakers/geist_03.jpg",
+  "img/speakers/geist_04.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#geist_small").backstretch([
+  "img/speakers/geist_01.jpg",
+  "img/speakers/geist_02.jpg",
+  "img/speakers/geist_03.jpg",
+  "img/speakers/geist_04.jpg"
+], { fade: 750, duration: 8000 });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        
