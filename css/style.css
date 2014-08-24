@@ -90,5 +90,7 @@ img.portrait {	margin-top: 5px; }
 #supporter h1 { margin: 70px 0 40px 0;}
 #supporter img {margin-bottom: 30px;}
 
-
+@media (max-width: 992px) {
+	.fixed-overlay {position: absolute;}
+}
 

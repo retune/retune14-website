@@ -1,4 +1,4 @@
-<div id="footer">
+		<div id="footer" class="hidden-sm hidden-xs">
 			<p>retune 2014 // 26. – 28.09.2014, ARENA Glashaus Berlin</p>
 			<ul>
 				<li><a href="http://eepurl.com/oAiGz" target="_blank">newsletter</a></li>
