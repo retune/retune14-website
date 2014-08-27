@@ -8,6 +8,7 @@
 		else if($file == "tickets") { $pagetitle = "tickets | "; }
 		else if($file == "about") { $pagetitle = "about | "; }
 		else if($file == "venue") { $pagetitle = "venue | "; }
+		else if($file == "schedule") { $pagetitle = "schedule | "; }
 		else if($file == "index") { $pagetitle = ""; } 
 	?>
 
@@ -97,7 +98,7 @@
 	                    <li<?php if($file == "about") {echo ' class="active"';} ?>><a href="about" class="about">about</a></li>
 	                    <li<?php if($file == "speakers") {echo ' class="active"';} ?>><a href="speakers" class="speakers">speakers</a></li>
 	                    <li<?php if($file == "workshops") {echo ' class="active"';} ?>><a href="workshops" class="workshops">workshops</a></li>
-	                    <!-- <li<?php if($file == "program") {echo ' class="active"';} ?>><a href="program.php">program</a></li> -->
+	                    <li<?php if($file == "schedule") {echo ' class="active"';} ?>><a href="schedule">schedule</a></li>
 	                    <li<?php if($file == "venue") {echo ' class="active"';} ?>><a href="venue" class="venue">venue</a></li>
 	                    <li<?php if($file == "tickets") {echo ' class="active"';} ?>><a href="tickets" class="tickets">tickets</a></li>
 	                    <!-- <li<?php if($file == "partners") {echo ' class="active"';} ?>><a href="partners.php">partners</a></li> -->

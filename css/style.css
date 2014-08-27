@@ -46,6 +46,9 @@ img.portrait {	margin-top: 5px; }
 #terms p {font-size: 16px;}
 .text-page .col-md-6 {padding-bottom: 100px;}
 
+/* SCHEDULE PAGE */
+#schedule h2 {font-size: 16px; text-transform: uppercase; margin-bottom: 0.5em; margin-top: 2em;} 
+
 /* NAVIGATION */
 .nav_images { position: absolute; top: 90px; right: 70px; z-index: 3; text-transform: uppercase; color: #6400e6; font-size: 16px; }
 .nav_images a { font-size: 14px; }
@@ -68,6 +71,7 @@ img.portrait {	margin-top: 5px; }
 .navbar .nav li.active a.workshops { color: #fff8d3; }
 .navbar .nav li.active a.venue { color: #e2e8ff; }
 .navbar .nav li.active a.tickets { color: #ffd9c4; }
+.navbar .nav li.active a.schedule { color: #e2fde7; }
 
 
 /* FOOTER */
