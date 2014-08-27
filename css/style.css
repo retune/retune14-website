@@ -47,7 +47,8 @@ img.portrait {	margin-top: 5px; }
 .text-page .col-md-6 {padding-bottom: 100px;}
 
 /* SCHEDULE PAGE */
-#schedule h2 {font-size: 16px; text-transform: uppercase; margin-bottom: 0.5em; margin-top: 2em;} 
+#schedule h2 {font-size: 18px; text-transform: uppercase; margin-bottom: 0.5em; margin-top: 2em;} 
+#schedule p {font-size: 16px}
 
 /* NAVIGATION */
 .nav_images { position: absolute; top: 90px; right: 70px; z-index: 3; text-transform: uppercase; color: #6400e6; font-size: 16px; }
