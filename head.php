@@ -12,7 +12,7 @@
 	?>
 
 
-        <title><?php echo $pagetitle; ?>retune - creative technology conference | 26. - 28.09.2014 berlin</title>
+        <title><?php echo $pagetitle; ?>retune. 2014 - INSIDE THE MIRROR</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- Bootstrap core CSS -->
 	    <link href="css/bootstrap.css" rel="stylesheet">
