@@ -34,20 +34,6 @@ $("#ccl_small").backstretch([
   "img/workshops/ccl_04.jpg"
 ], { fade: 750, duration: 8000 });
 
-$("#interface_image").backstretch([
-  "img/workshops/interfaces_01.jpg",
-  "img/workshops/interfaces_02.jpg",
-  "img/workshops/interfaces_03.jpg",
-  "img/workshops/interfaces_04.jpg"
-], { fade: 750, duration: 8000 });
-
-$("#interface_small").backstretch([
-  "img/workshops/interfaces_01.jpg",
-  "img/workshops/interfaces_02.jpg",
-  "img/workshops/interfaces_03.jpg",
-  "img/workshops/interfaces_04.jpg"
-], { fade: 750, duration: 8000 });
-
 $("#3d_image").backstretch([
   "img/workshops/3d_01.jpg"
 ], { fade: 750, duration: 8000 });
@@ -62,10 +48,25 @@ $("#vvvv_image").backstretch([
   "img/workshops/vvvv_02.jpg"
 ], { fade: 750, duration: 8000 });
 
+
 $("#vvvv_small").backstretch([
   // "img/workshops/ccl_01.jpg",
   "img/workshops/vvvv_01.jpg",
   "img/workshops/vvvv_02.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#interface_image").backstretch([
+  "img/workshops/interfaces_01.jpg",
+  "img/workshops/interfaces_02.jpg",
+  "img/workshops/interfaces_03.jpg",
+  "img/workshops/interfaces_04.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#interface_small").backstretch([
+  "img/workshops/interfaces_01.jpg",
+  "img/workshops/interfaces_02.jpg",
+  "img/workshops/interfaces_03.jpg",
+  "img/workshops/interfaces_04.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#openframeworks_image").backstretch([
@@ -80,6 +81,16 @@ $("#openframeworks_small").backstretch([
   "img/workshops/openframeworks_02.jpg",
   "img/workshops/openframeworks_03.jpg",
   "img/workshops/openframeworks_04.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#twitter_image").backstretch([
+  "img/workshops/twitter_01.jpg",
+  "img/workshops/twitter_02.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#twitter_small").backstretch([
+  "img/workshops/twitter_01.jpg",
+  "img/workshops/twitter_02.jpg"
 ], { fade: 750, duration: 8000 });
 
 $("#networkshop_image").backstretch([

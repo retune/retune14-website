@@ -14,7 +14,8 @@
 						<li><a href="#glemmer">glemmer</a></li>
 						<li><a href="#openframeworks">openframeworks</a></li>
 						<li><a href="#3d" style="letter-spacing: 1px;">3d scanning and printing</a></li>
-						<li><a href="#superobjects">superobjects Paradigm</a></li>
+						<li><a href="#superobjects">superobjects paradigm</a></li>
+						<li><a href="#twitter">twitter orchestra</a></li>
 						
 						<li style="font-size: 20px; margin-top: 20px; margin-bottom: 3px; font-family:'Apercu Regular', Calibri, sans-serif; font-weight:normal; font-style:normal;">Extended Workshops</li>
 						<li><a href="#networkshop">NETworkshop</a></li>
@@ -35,7 +36,7 @@
 						<p>In the beginning we will show you the basic workflow of how to use vvvv and connect it to different sensors like the accelerometer of your mobile phones or Arduino based sensors. Later we will show you how to use the sensor readings and generate and manipulate real-time graphics in vvvv. At the end you can control them with your body as an input.</p>
 						<p><em>Jochen Leinberger</em> studied industrial design at HfG Offenbach. He is really excited about developing and inventing new custom-made technology which is focused on solving problems, improving life and making the impossible possible. After working 7 years at MESO Digital Interiors as conceptual designer for physical interaction, he started working as UX Designer and for the conception of new products and services at T-Gallery, the Future Forum of Deutsche Telekom.</p>
 						<p><em>Mark Lukas</em> studied communication design at the Hochschule für Gestaltung in Schwäbisch Gmünd. He is particularly interested in the fields of tension between digital interfaces, information design, the design of new exhibition installations, and traditional print media. Today, he is exploring these issues in his current Master Studies of Interface Design at the University of Applied Sciences Potsdam.</p>
-
+						<p>Electronics will be generously provided by <a href="http://tinkersoup.de" target="_blank">Tinkersoup</a>.</p>
 						<div class="workshop-meta">
 							<h4 class="requirements">requirements</h4>
 							<p>As this one day workshop will be very intense please be prepared to have:
@@ -238,6 +239,48 @@
 					<nav class="nav_images">
 						<a href="javascript:previousImage('superobjects')"><span class="glyphicon glyphicon-chevron-left"></span></a>
 						<a href="javascript:nextImage('superobjects')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+			</div> <!-- /row -->	
+
+			<!-- Twitter Orchestra -->
+	    	<div class="row" id="twitter">
+				<div class="workshop_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
+						<h2>Twitter Orchestra</h2>					
+						<h4>by Alessandro Contini and Ramin Soleymani<br/>1 day | 26.09.2014, 10:00 – 16:00<br/>30€ (student: 24€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
+						<p>Sometimes Twitter really looks like a participative, diffused, continuous, restless symphony in front of our eyes. But if that is just what we can see, then how does it sounds like? During the workshop we will not only give Tweets a voice, but we will try to make sense of them, a musical sense, conducting the music as a real orchestra.</p>
+						<p>We will make IoT enabled devices that can interact with Twitter and use them as our instruments to perform together as the first Twitter Orchestra.</p>
+						<p>While doing that we will go through the basics of physical computing and interfacing hardware with the Twitter API — IoT hands-on!</p>
+						<p><em>Alessandro Contini</em> is a designer, a coder, a musician but mostly a tech enthusiast. He uses and abuses creative technologies, and contributes to create new ones.</p>
+						<p><em>Ramin Soleymani</em> is a developer and artist organising tech/art/science events in Berlin and teaching creative coding / physical computing.</p>
+						<p>An Arduino Yun and more electronics will be generously provided by <a href="http://tinkersoup.de" target="_blank">Tinkersoup</a>. You will have the chance to buy the Yun after the workshop for 50% off.</p>
+						<div class="workshop-meta">
+							<h4 class="requirements">requirements</h4>
+							<ul>
+								<li>Some previous knowledge of the Arduino environment and basics of electronics are a prerequisite for the workshop (ideally an "Introduction to Arduino" workshop)</li>
+								<li>laptop (with <a href="http://arduino.cc/en/Main/Software#toc3">Arduino 1.5.7 software</a> already installed)</li>
+								<li>if you have: micro usb cable and a usb 5v phone charger</li>
+								<li>sensors if you already have some</li>
+
+							</ul>
+							<a href="http://www.alessandrocontini.com" target="_blank">alessandrocontini.com</a><br/>
+							<a href="http://twitter.com/cntlsn" target="_blank">Alessandro on Twitter</a><br/>
+							<a href="http://diskordier.net" target="_blank">diskordier.net</a><br/>
+							<a href="https://twitter.com/ramin__" target="_blank">Ramin on Twitter</a>
+
+
+						</div>
+
+						<div id="twitter_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+
+				<div id="twitter_image" class="workshop_images col-md-6 hidden-sm hidden-xs" style="position: fixed; right:0;">
+					<nav class="nav_images">
+						<a href="javascript:previousImage('twitter')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('twitter')"><span class="glyphicon glyphicon-chevron-right"></span></a>
 						images
 					</nav>
 				</div> <!-- /speaker_images -->
