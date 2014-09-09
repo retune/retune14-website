@@ -78,7 +78,6 @@
 						<p>Chains of visual effects are easy to use for the novice, yet quite exhaustive in their possibilities.</p>
 						<p><em>Anton:</em> After years of passionately moving pixels by hand and fulfilling the wishes of various clients, after running a funny online electronic store as a full­time job at night and teaching students at daytime he works now for vvvv and develops tutorials and documentation.</p>
 						<p><em>Joreg:</em> Co­founder of the vvvv group and core­developer of the multipurpose toolkit vvvv. Besides he teaches and is concerned with the integration of sound, image and computer code. Together with Sebastian Gregor he works for money under the label checksum5.</p>
-
 						<div class="workshop-meta">
 							<h4 class="requirements">requirements</h4>
 								<ul>
@@ -86,8 +85,7 @@
 									<li>You need to bring a Laptop (Windows oder Mac+Bootcamp) with installed vvvv & addonpack: <a href="http://vvvv.org/downloads" target="_blank">vvvv.org/downloads</a>
 								</ul>
 								<a href="http://vvvv.org" target="_blank">vvvv.org</a><br/>
-								<a href="http://www.checksum5.com" target="_blank">checksum5.com</a>				
-								
+								<a href="http://www.checksum5.com" target="_blank">checksum5.com</a>			
 						</div>
 
 						<div id="vvvv_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
