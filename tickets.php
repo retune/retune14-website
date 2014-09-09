@@ -12,6 +12,7 @@
 					<p><em>Workshops:</em> Details about the workshops can be found <a href="workshops">here</a>. Workshops are not included in the conference tickets and have to be booked seperately . All the workshops run in parallel on Friday (26.09.) so you will only be able to attend one of them. If not enough people sign up for a workshop, it is possible that we have to cancel the workshop. Of course you will get a full refund in this case.<br/><strong>Students can get a 20% discount on all workshops by entering the code WORKSHOP-STUDENT</strong> (you will see the effect after you clicked "Purchase")</p>
 					<p>All prices include "Umsatzsteuer" (VAT) of 19%. By buying a ticket you agree to our <a href="terms" target="_blank">Terms of Service</a>.
 						<p>If you have questions, get in touch: tickets /at/ retune /dot/ de</p>
+						<p>Problems with the embedded ticketshop? <a href="https://ti.to/retune/retune-2014" target="_blank">Try this one</a>.</p>
 					<div id='tito-register-form'></div>
 					<script src='https://beta.tito.io/retune/retune-2014.js?version=3' type='text/javascript'></script>
 					<!--<script src='https://ti.to/retune/retune-2014.js?version=3' type='text/javascript'></script>-->
