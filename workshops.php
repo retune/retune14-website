@@ -327,7 +327,7 @@
 				<div class="workshop_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
 						<h2>REAL TIME VIDEO TOOLS</h2>					
-						<h3>Organized and hosted by <a href="https://berlinerpool.de" target="_blank">Berliner Pool</a></h3>
+						<h3>Organized and hosted by <a href="https://www.berlinerpool.de/blog/view/workshop:-vj" target="_blank">Berliner Pool</a></h3>
 						<h4>by Lucas Gutierrez and Klaas von Karlos<br/>2 days | 24. & 25.09.2014, 18:00 – 22:00<br/>presentation: 26.09.2014 at retune.<br/>130€ (members of Berliner Pool and FabLab Berlin: 60€)<br/>– <a href="http://form.jotformpro.com/form/42296842650964?">REGULAR SIGNUP</a> / <a href="http://form.jotformpro.com/form/42302847979971?" target="_blank">MEMBER SIGNUP</a></h4>
 						<p>The Real-Time VJ Tools workshop is an open-collaborative environment in which participants will use their creative and technical backgrounds to develop an unrealized real-time audiovisual or VJ performance. Over the course of the three days, and under the guidance of the two instructors, the participants will be introduced to the live performance capabilities of softwares such as Resolume, Modul8, Ableton Live, and others. Additionally, attendees are encouraged to bring ideas for mixed media presentations utilizing cameras, still images, movement, web cameras, and any digital/analog techniques that will contribute to their project. On the final day of the workshop, participants will present a brief performance at an open event/exhibition. Workshop is organized by Berlinerpool Arts Network, in a framework of LEARN_it program.</p>
 						<p><em>Lucas Gutierrez:</em> Digital Artist and Industrial Designer Argentinean from Argentina. He has participated and exhibited his works in well known national and international festivals such as: Offf-Post-Digital Creation Culture (Lisbon), GET SET Art Festival 2012 (Porto), LPM – Live Performers Meeting 2013 (Rome), 180 CreativEcamp 2013 (Abrantes), Genus Loci (Weimar) and others.</p>
@@ -342,7 +342,7 @@
 								<li>Hardware Core2Duo / 2Gb RAM / 512Mb video</li>
 							</ul>
 							<a href="https://www.youtube.com/watch?v=wHw9h_Z0fNs" target="_blank">Workshop teaser from Forum da Maia (Portugal)</a><br/>
-							<a href="https://www.berlinerpool.de/" target="_blank">berlinerpool.de</a>
+							<a href="https://www.berlinerpool.de/blog/view/workshop:-vj" target="_blank">berlinerpool.de</a>
 						</div>
 
 						<div id="vj_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
