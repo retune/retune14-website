@@ -118,7 +118,6 @@
 			 -->
 			<?php $count++; ?>
 			<div class="row" id="blas"> 
-
 				<div class="speaker_info col-md-6 col-xs-12 <?php if($count%2 == 0) {echo "col-md-push-6";} ?>">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Zach Blas (via video-conference)</h2>
@@ -147,7 +146,7 @@
 			 -->
 			<?php $count++; ?>
 			<div class="row" id="cyborgs"> 
-				<div class="speaker_info col-md-6 col-xs-12 col-md-push-6">
+				<div class="speaker_info col-md-6 col-xs-12 <?php if($count%2 == 0) {echo "col-md-push-6";} ?>">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Cyborgs e.V.</h2>
 						<p>The ambivalence of futuristic-sounding pictures of a dissolving human body, on the one hand, and the bio-tech symbiosis that is happening at the moment in real life and society, on the other, clearly
@@ -162,7 +161,7 @@ challenges the societal norms and standards that make up our conception of human
 					</div> <!-- /description -->
 				</div> <!-- /speaker_info -->
 
-				<div id="cyborgs_image" class="speaker_images col-md-6 hidden-sm hidden-xs col-md-pull-6">			
+				<div id="cyborgs_image" class="speaker_images col-md-6 hidden-sm hidden-xs <?php if($count%2 == 0) {echo "col-md-pull-6";} ?>">
 					<nav class="nav_images <?php if($count%2 == 0) {echo "left";} ?>">
 						<a href="javascript:previousImage('cyborgs')"><span class="glyphicon glyphicon-chevron-left"></span></a>
 						<a href="javascript:nextImage('cyborgs')"><span class="glyphicon glyphicon-chevron-right"></span></a>
