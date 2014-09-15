@@ -10,6 +10,7 @@
 					<ul class="nav">
 						<li><a href="#allen">Jamie Allen</a></li>
 						<li><a href="#aparede">A Parede</a></li>
+						<li><a href="#beanotherlab">BeAnotherLab</a></li>
 						<li><a href="#blas">Zach Blas</a></li>
 						<li><a href="#cyborgs">Cyborgs e.V.</a></li>
 						<li><a href="#franco">Anaisa Franco</a></li>
@@ -87,6 +88,29 @@
 					</nav>
 				</div> <!-- /speaker_images -->
 				
+			</div> <!-- /row -->
+
+			<!-- 
+				BEANOTHERLAB
+			 -->
+			<?php $count++; ?>
+			<div class="row" id="beanotherlab">
+				<div class="speaker_info col-md-6 col-xs-12 <?php if($count%2 == 0) {echo "col-md-push-6";} ?>">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+						<h2>BeAnotherLab</h2>
+						<p>BeAnotherLab is an interdisciplinary art collective that conducts embodied telepresence experiments to promote empathy. Drawing on neuroscience protocols, we search for innovative possibilities in embodied interaction and use low-budget digital technology to run performances addressing social issues.</p>
+						<p>The team is composed of researchers from 6 countries (Philippe Bertrand - BR, Christian Cherene - IE, Daniel Gonzalez - CO, Daanish Masood - US, Marte Roel - MX, Arthur Tres - FR), with backgrounds in digital arts, cognitive systems, engineering, psychology and conflict resolution, and is actively collaborating with institutions working in those fields around the world. Its work received numerous awards and has been exhibited internationally.</p>
+						<div class="website"><a href="http://themachinetobeanother.org" target="_blank">themachinetobeanother.org</a></div>
+						<div id="beanotherlab_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+				<div id="beanotherlab_image" class="speaker_images col-md-6 hidden-sm hidden-xs <?php if($count%2 == 0) {echo "col-md-pull-6";} ?>">			
+					<nav class="nav_images <?php if($count%2 == 0) {echo "left";} ?>">
+						<a href="javascript:previousImage('beanotherlab')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('beanotherlab')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
 
 			<!-- 

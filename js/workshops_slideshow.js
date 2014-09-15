@@ -123,6 +123,24 @@ $("#vj_small").backstretch([
   "img/workshops/vj_04.jpg"
 ], { fade: 750, duration: 8000 });
 
+$("#beanotherlab_image").backstretch([
+  "img/speakers/beanotherlab_01.jpg",
+  "img/speakers/beanotherlab_02.jpg",
+  "img/speakers/beanotherlab_03.jpg",
+  "img/speakers/beanotherlab_04.jpg",
+  "img/speakers/beanotherlab_05.jpg",
+  "img/speakers/beanotherlab_06.jpg"
+], { fade: 750, duration: 8000 });
+
+$("#beanotherlab_small").backstretch([
+  "img/speakers/beanotherlab_01.jpg",
+  "img/speakers/beanotherlab_02.jpg",
+  "img/speakers/beanotherlab_03.jpg",
+  "img/speakers/beanotherlab_04.jpg",
+  "img/speakers/beanotherlab_05.jpg",
+  "img/speakers/beanotherlab_06.jpg"
+], { fade: 750, duration: 8000 });
+
 // pre-load images
 // if(document.images){
 // 	var image1 = new Image()

@@ -254,6 +254,24 @@ $("#lieser_small").backstretch([
   "img/speakers/lieser_05.jpg"
 ], { fade: 750, duration: d });
 
+$("#beanotherlab_image").backstretch([
+  "img/speakers/beanotherlab_01.jpg",
+  "img/speakers/beanotherlab_02.jpg",
+  "img/speakers/beanotherlab_03.jpg",
+  "img/speakers/beanotherlab_04.jpg",
+  "img/speakers/beanotherlab_05.jpg",
+  "img/speakers/beanotherlab_06.jpg"
+], { fade: 750, duration: d });
+
+$("#beanotherlab_small").backstretch([
+  "img/speakers/beanotherlab_01.jpg",
+  "img/speakers/beanotherlab_02.jpg",
+  "img/speakers/beanotherlab_03.jpg",
+  "img/speakers/beanotherlab_04.jpg",
+  "img/speakers/beanotherlab_05.jpg",
+  "img/speakers/beanotherlab_06.jpg"
+], { fade: 750, duration: d });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        

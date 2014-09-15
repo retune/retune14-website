@@ -16,6 +16,7 @@
 						<li><a href="#3d" style="letter-spacing: 1px;">3d scanning and printing</a></li>
 						<li><a href="#superobjects">superobjects paradigm</a></li>
 						<li><a href="#twitter">twitter orchestra</a></li>
+						<li><a href="#beanotherlab">BeAnotherLab</a></li>
 						
 						<li style="font-size: 20px; margin-top: 20px; margin-bottom: 3px; font-family:'Apercu Regular', Calibri, sans-serif; font-weight:normal; font-style:normal;">Extended Workshops</li>
 						<li><a href="#networkshop">NETworkshop</a></li>
@@ -242,6 +243,7 @@
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->	
 
+
 			<!-- Twitter Orchestra -->
 	    	<div class="row" id="twitter">
 				<div class="workshop_info col-md-6 col-xs-12">
@@ -284,6 +286,39 @@
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->	
 
+			<!-- BeAnotherLab -->
+	    	<div class="row" id="beanotherlab">
+				<div class="workshop_info col-md-6 col-xs-12">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
+						<h2>Embodiment and Empathy with the Machine to be another</h2>					
+						<h4>by BeAnotherLab - Daniel Gonzalez-Franco and Arthur Tres<br/>1 day | 26.09.2014, 10:00 – 16:00<br/>30€ (student: 24€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
+						<p>For the past 2 years, BeAnotherLab has been working with an extended community of researchers, artists, and members of the public. With our initial vision to create a system to promote empathy between individuals for which uses must be codesigned with participants, we have discovered the possibilities of its uses it in a wide variety of contexts, including conflict resolution, dance, neurorehabilitation.</p>
+						<p>During this two-part workshop, we will introduce participants to the technology and protocols used for the Machine to Be Another, and then discuss and experiment with new performances or use scenarios.</p>
+						<p>First we will give a review of our process and of the different outcomes. The relevant scientific literature on empathy and embodiment that we based our work on will be presented. Then we will give a detailed introduction to the open-source software and hardware of the machine to be another : how to build it, how to operate it, and possible future improvements. Finally, depending on participants skills and interests, we will run a short discussion/hacking/demo session to give a hands-on experience of working with the Machine to be Another.</p>
+
+						</p>
+						<div class="workshop-meta">
+							<h4 class="requirements">requirements</h4>
+							<ul>
+								<li>Participants can bring a laptop with openFrameworks for xcode or visual studio 2010 if they wish to install the software on their own computer.</li>
+								<li>If you habe, bring an oculus rift so you can learn how to run a gender swap session.</li>
+								<li>You're invited to bring bio sensors, heart rate sensors, microphones, webcams etc. We will bring some things to tinker with as well.</li>
+							</ul>
+							<a href="http://themachinetobeanother.org" target="_blank">themachinetobeanother.org</a>
+						</div>
+
+						<div id="beanotherlab_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+
+				<div id="beanotherlab_image" class="workshop_images col-md-6 hidden-sm hidden-xs" style="position: fixed; right:0;">
+					<nav class="nav_images">
+						<a href="javascript:previousImage('beanotherlab')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('beanotherlab')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+			</div> <!-- /row -->	
 
 			<!-- WORKSHOP 2 -->
 	    	<div class="row" id="networkshop">
