@@ -238,6 +238,22 @@ $("#parmar_small").backstretch([
   "img/speakers/parmar_01.jpg"
 ], { fade: 750, duration: d });
 
+$("#lieser_image").backstretch([
+  "img/speakers/lieser_01.jpg",
+  "img/speakers/lieser_02.jpg",
+  "img/speakers/lieser_03.jpg",
+  "img/speakers/lieser_04.jpg",
+  "img/speakers/lieser_05.jpg"
+], { fade: 750, duration: d });
+
+$("#lieser_small").backstretch([
+  "img/speakers/lieser_01.jpg",
+  "img/speakers/lieser_02.jpg",
+  "img/speakers/lieser_03.jpg",
+  "img/speakers/lieser_04.jpg",
+  "img/speakers/lieser_05.jpg"
+], { fade: 750, duration: d });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        

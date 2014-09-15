@@ -15,7 +15,7 @@
 						<li><a href="#franco">Anaisa Franco</a></li>
 						<li><a href="#geist">Moritz Simon Geist</a></li>
 						<li><a href="#gohl">Jarii van Gohl</a></li>
-						<!-- <li><a href="#lieser">Wolf Lieser</a></li> -->
+						<li><a href="#lieser">Wolf Lieser</a></li>
 						<li><a href="#mirti">Stefano Mirti</a></li>
 						<li><a href="#parmar">Robin Parmar</a></li>
 						<li><a href="#quaranta">Domenico Quaranta</a></li>
@@ -221,7 +221,6 @@ challenges the societal norms and standards that make up our conception of human
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
 
-			<?php /*
 			<!-- 
 				WOLF LIESER
 			 -->
@@ -230,7 +229,8 @@ challenges the societal norms and standards that make up our conception of human
 				<div class="speaker_info col-md-6 col-xs-12 <?php if($count%2 == 0) {echo "col-md-push-6";} ?>">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
 						<h2>Wolf Lieser</h2>
-						<p></p>
+						<p>Wolf Lieser works in the art field for more then 20 years. Originally an artist himself, he felt that supporting good artist in their career was much more needed then producing art himself. He started as an artist manager, became an art consultant and soon a gallerist with a unique and broader approach. His interest in Digital Art was the result of a systematic research into contemporary art with the purpose to isolate new tendencies, which could have a major influence on art in the future. He focussed on Digital Art early on. This has proven to be true. In 1998 he developed the DAM project, consisting of a online resource on the history of Digital Art, a commercial gallery and a lifetime award, |DDAA| - dam.org</p>
+						<p>Together with his partner Keith Watson he ran the first gallery for Digital Art, named Colville Place Gallery in London from 1999- 2002. Since 2003 he is based in Berlin, with temporary locations in Cologne and Frankfurt. The gallery is solely focussing on digital media and their effect on culture, from the early pioneers of the 1960s to the present. In 2009 he wrote the introductory book “Digital Art”, which was published in 6 languages</p>
 						<img class="portrait img-circle" src="img/speakers/lieser_portrait.jpg" />
 						<div class="website"><a href="http://www.dam-gallery.de" target="_blank">dam-gallery.de</a></div>
 						<div id="lieser_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
@@ -244,7 +244,6 @@ challenges the societal norms and standards that make up our conception of human
 					</nav>
 				</div> <!-- /speaker_images -->
 			</div> <!-- /row -->
-			*/ ?>
 
 			<!-- 
 				STEFANO MIRTI
