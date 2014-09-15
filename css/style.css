@@ -60,6 +60,8 @@ img.portrait {	margin-top: 5px; }
 #middle_nav ul.nav a {font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size: 18px; letter-spacing: 3px; padding:0;}
 #middle_nav ul.nav a:hover {background-color: transparent; text-decoration: underline;}
 #middle_nav li.active a { text-decoration: underline; }
+.dropdown-menu {background-color: #222; min-width: 200px;}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {background-color: #444;}
 
 /* NAVBAR */
 .navbar .nav li a { font-family:"Century Schoolbook Regular", 'Century Schoolbook', serif; font-weight:normal; font-style:normal; text-transform: uppercase; color: white; font-size: 14px; letter-spacing: 0.1em; padding-right: 0; margin-top: 3px; }
