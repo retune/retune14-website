@@ -326,7 +326,7 @@
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
 						<h2>NETworkshop</h2>
 						<h3>Lightning in the Age of Cloud-Computing</h3>
-						<h4>by Julian Oliver and Danja Vasiliev<br/>5 days | 22. – 26.09.2014<br/>250€ (student: 200€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
+						<h4>by Julian Oliver and Danja Vasiliev<br/>5 days | 50 hours | 22. – 26.09.2014<br/>250€ (student: 200€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
 						<p>Ask anyone how the postal system works and they would give a vaguely correct description. Few however would come close to describing how email, let alone a computer network itself, actually functions. With this lack of knowledge comes a risk; we lack the practical understanding to effectively read the infrastructural and political implications of our increased dependency on this technology.<br/>
 						In this intense 5 day workshop Oliver and Vasiliev teach low level networking using only command line tools and networking hardware. In doing so, students learn not only how to create and manipulate computer networks, but also how they can be used to manipulate us.<br/>
 						No prior knowledge of computer networking, programming or command line interaction is required.</p>
@@ -342,6 +342,9 @@
 								<li>Oliver and Vasiliev provide all students with a customised virtualised Linux operating system, complete with tools familiar to both the hacker and network engineer alike.</li>
 								<li>Complete documentation is provided.</li>
 							</ul>
+							<a href="http://julianoliver.com/output/" target="_blank">julianoliver.com</a><br/>
+							<a href="http://k0a1a.net" target="_blank">k0a1a.net</a><br/>
+							<a href="http://criticalengineering.org/courses/" target="_blank">criticalengineering.org/courses</a>
 						</div>
 						<div id="networkshop_small" style="height:350px; margin-top:20px; z-index:0;" class="visible-sm visible-xs img-responsive"></div>
 					</div> <!-- /description -->
