@@ -13,8 +13,8 @@
 					 
 					<h2>Saturday, 27.09.</h2>
 					<p>10:00 - 18:00 Talks<br/>
-					19:00 - 22:00 Opening of the Exhibition at LEAP<br/>
-					22:00 - open end: After Party </p>
+					19:00 - 22:00 Sound Art Performances at LEAP<br/>
+					22:00 - open end: After Party TBA</p>
 					 
 					<h2>Sunday, 28.09.</h2>
 					<p>10:00 - 17:00 Talks, after that time for feedback etc.</p>
