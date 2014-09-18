@@ -79,7 +79,6 @@
 						<tr height="50" class="main-block">
 							<td class="time">10:00</td>
 							<td class="general" colspan="2">Registration</td>
-							<td></td>
 						</tr>
 
 						<tr height="66" class="main-block">
