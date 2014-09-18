@@ -8,13 +8,12 @@
 					<table style="width: 100%;">
 						<tr>
 							<th width="20%"></th>
-							<th width="40%">main Stage</td>
-							<th>second stage</th>
+							<th width="80%">&nbsp;</td>
 						</tr>
 
 						<tr height="700" class="main-block">
 							<td class="time">10:00</td>
-							<td class="speaker" colspan="2">Workshops
+							<td class="workshops">Workshops
 								<p>
 									Prototyping Interfaces<br/>
 									vvvv<br/>
@@ -30,27 +29,24 @@
 						
 						<tr height="100" class="main-block">
 							<td class="time">17:00</td>
-							<td colspan="2" class="general">Registration</td>
+							<td class="general">Registration</td>
 						</tr>
 						<tr height="50" class="main-block">
 							<td class="time">18:00</td>
-							<td class="speaker">Welcome & Introduction</td>
-							<td></td>
+							<td class="orga">Welcome & Introduction</td>
 						</tr>
 						<tr height="50">
 							<td></td>
 							<td class="speaker">Alice Wang</td>
-							<td></td>
 						</tr>
 						<tr height="50">
 							<td></td>
 							<td class="speaker">United Visual Artists</td>
-							<td></td>
 						</tr>
 
 						<tr height="400" class="main-block">
 							<td class="time">19:30</td>
-							<td colspan="2" style="height:80px" class="evening">Get Together
+							<td style="height:80px" class="evening">Get Together
 								<p>Music + Drinks</p>
 								<p><em>Presentation</em><br/>
 									Choreographic Coding Lab<br/><br/>
@@ -191,7 +187,7 @@
 							<th>second stage</th>
 						</tr>
 
-						<tr height="50">
+						<tr height="50" class="main-block">
 							<td class="time">10:30</td>
 							<td class="speaker">Susa Schmid</td>
 							<td></td>
@@ -206,7 +202,7 @@
 							<td class="speaker">BeAnotherLab</td>
 							<td></td>
 						</tr>
-						<tr height="50">
+						<tr height="50" class="main-block">
 							<td class="time">12:00</td>
 							<td></td>
 							<td class="discussion">Discussion 4</td>
@@ -214,14 +210,14 @@
 						<tr height="50">
 							<td></td>
 							<td class="speaker">Stefano Mirti</td>
-							<td class="company">job corner</td>
+							<td class="orga">job corner</td>
 						</tr>
-						<tr height="100">
+						<tr height="100" class="main-block">
 							<td class="time">13:00</td>
 							<td colspan="2" class="general">Lunch Break</td>
 						</tr>
 
-						<tr height="50">
+						<tr height="50" class="main-block">
 							<td class="time">14:00</td>
 							<td class="speaker">Anaisa Franco</td>
 							<td></td>
@@ -236,12 +232,12 @@
 							<td class="speaker">Karina Smigla-Bobinski</td>
 							<td></td>
 						</tr>
-						<tr height="50">
+						<tr height="50" class="main-block">
 							<td class="time">15:30</td>
 							<td></td>
 							<td class="discussion">Discussion 5</td>
 						</tr>
-						<tr height="50">
+						<tr height="50" class="main-block">
 							<td class="time">16:00</td>
 							<td class="speaker">Karsten Schmidt</td>
 							<td></td>
@@ -256,7 +252,7 @@
 							<td class="speaker">Random International</td>
 							<td></td>
 						</tr>
-						<tr height="50">
+						<tr height="50" class="main-block">
 							<td class="time">18:30</td>
 							<td></td>
 							<td class="afterparty">Feedback & Goodbye</td>
