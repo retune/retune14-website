@@ -146,8 +146,8 @@
 	    	<div class="row" id="openframeworks">
 				<div class="workshop_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
-						<h2>Introduction to openFrameworks</h2>					
-						<h4>by Arturo Castro<br/>1 day | 26.09.2014, 10:00 – 16:00<br/>30€ (student: 24€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
+						<h2>Introduction to openFrameworks<br/><span style="color:red;">BOOKED OUT!</span></h2>					
+						<h4>by Arturo Castro<br/>1 day | 26.09.2014, 10:00 – 16:00<br/>30€ (student: 24€)</h4>
 						<p>openFrameworks is a creative coding toolkit for artists and designers that allows to work with graphics, sound, video, computer vision and many others.</p>
 						<p>During the workshop we'll adquire some basic knowledge that will help us program using openFrameworks. The workshop is oriented to people with no or few experience in openFrameworks but some experience with programming (Processing, php, javascript...).</p>
 						<p><em>Arturo Castro</em> is an artist, educator and engineer currently based in Berlin. He is one of the core developers of the open source toolkit for artists and designers openFrameworks. Currently he works on his own and collaborates with other artists and technologists on projects usually in the field of interactive installations.<br/>His main interests are related with open source culture in the context of artistic practices and technology literacy and his work has been exhibited in museums like Maison d'Ailleurs in Switzerland, the London Design Museum or Moscow's Multimedia Art Museum among others.</p>
