@@ -6,6 +6,8 @@
 	    		<div class="col-md-6 col-md-offset-3" style="padding-bottom: 50px;">
 					<p style="font-size: 14px;">We have done some changes to the program this year. We have a second stage that we want to use to kind of mirror the main stage. During the breaks of the talks on the main stage, we'll gather the speakers of the previous slots around one table and discuss their topics in more detail. By moving this to a different stage, we hope to get everyone out of passive listening mode into active mode again. And of course this is also the time to grab a coffee and a snack at the bar.</p>
 					<p style="font-size: 14px;">During the lunch break we will provide some great food directly in the venue for you to purchase.</p>
+					<p style="font-size: 14px;">The evening events on Friday and Saturday are open to the public*. So you can and should bring all your friends!</p>
+					<p style="font-size: 10px;">*) People without retune ticket need to pay a small fee.</p>
 				</div> 
 	    	</div>
 
@@ -58,7 +60,7 @@
 
 						<tr height="400" class="main-block">
 							<td class="time">19:30</td>
-							<td style="height:80px" class="evening">Get Together
+							<td style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">Get Together</span>
 								<p>Music + Drinks</p>
 								<p><em>Presentation</em><br/>
 								<a href="workshops#ccl">Choreographic Coding Lab</a><br/><br/>
@@ -181,9 +183,11 @@
 							<td></td>
 						</tr>
 
-						<tr height="200" class="main-block">
+						<tr height="250" class="main-block">
 							<td class="time">20:00</td>
-							<td colspan="2" style="height:80px" class="evening">Sound Performances
+							<td colspan="2" style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">Sound Performances</span>
+								<p><em>Performers</em><br/>
+								<a href="http://christinesunkim.com">Christine Sun Kim</a>, TBA, TBA
 								<p>@ <a href="http://www.leapknecht.de" taget="_blank">LEAP</a></br>Leipziger Str. 63<br/>10117 Berlin</p>
 							</td>
 						</tr>
@@ -195,6 +199,10 @@
 						</tr>
 					</table>
 				</div>
+
+
+				<!-- DAY 3 -->
+
 
 				<div class="col-md-4" style="padding-bottom: 200px">
 					<h2>Sunday &ndash; 28.09.2014</h2>
