@@ -253,7 +253,7 @@
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speakers#bobinski">K. Smigla-Bobinski</a></td>
+							<td class="speaker"><a href="speakers#smigla-bobinski">K. Smigla-Bobinski</a></td>
 							<td></td>
 						</tr>
 						<tr height="50" class="main-block">
