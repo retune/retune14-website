@@ -190,7 +190,7 @@
 
 						<tr height="300" class="main-block">
 							<td class="time">20:00</td>
-							<td colspan="2" style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">BodyControlled
+							<td colspan="2" style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">BodyControlled<br/>
 #7 &mdash; Echo</span>
 								<p><em>Performences by</em><br/>
 								<a href="http://christinesunkim.com" target="_blank">Christine Sun Kim</a><br/>
