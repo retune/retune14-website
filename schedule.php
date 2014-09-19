@@ -188,7 +188,7 @@
 							<td></td>
 						</tr>
 
-						<tr height="250" class="main-block">
+						<tr height="300" class="main-block">
 							<td class="time">20:00</td>
 							<td colspan="2" style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">BodyControlled
 #7 &mdash; Echo</span>
