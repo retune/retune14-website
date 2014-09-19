@@ -58,6 +58,7 @@ img.portrait {	margin-top: 5px; }
 #schedule .time {padding-top: 1px; margin-top: 0; font-size: 11px; vertical-align: top;}
 #schedule .evening { background-color: #8eb8ba; }
 #schedule .afterparty { background-color: #007a80; color: white; }
+#schedule .afterparty a { color: white; }
 #schedule .orga { background-color: #bfc0bf; }
 #schedule tr.main-block {border-top: 1px solid black; }
 #schedule table p {font-family:"Century Schoolbook Regular", 'Century Schoolbook', serif; font-weight:normal; font-style:normal; font-size: 13px; margin-top: 2em;}

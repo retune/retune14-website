@@ -49,11 +49,11 @@
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#wang">Alice Wang</a></td>
+							<td class="speaker"><a href="speakers#wang">Alice Wang</a></td>
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#uva">United Visual Artists</a></td>
+							<td class="speaker"><a href="speakers#uva">United Visual Artists</a></td>
 						</tr>
 
 						<tr height="400" class="main-block">
@@ -65,7 +65,7 @@
 								<em>Performance</em></br>
 								<a href="workshops#vj">Real Time Video Tool</a><br/><br/>
 								<em>Performance</em><br/>
-								<a href="speaker#geist">Moritz Simon Geist</a>
+								<a href="speakers#geist">Moritz Simon Geist</a>
 								</p>
 								<p><em>DJ</em><br/>Retune Allstars</p>
 
@@ -97,17 +97,17 @@
 
 						<tr height="67" class="main-block">
 							<td class="time">10:30</td>
-							<td class="speaker"><a href="speaker#visnjic">Filip Visnjic</a></td>
+							<td class="speaker"><a href="speakers#visnjic">Filip Visnjic</a></td>
 							<td></td>
 						</tr>
 						<tr height="66">
 							<td></td>
-							<td class="speaker"><a href="speaker#quaranta">Domenico Quaranta</a><br/></td>
+							<td class="speaker"><a href="speakers#quaranta">Domenico Quaranta</a><br/></td>
 							<td></td>
 						</tr>
 						<tr height="67">
 							<td></td>
-							<td class="speaker"><a href="speaker#lieser">Wolf Lieser</a></td>
+							<td class="speaker"><a href="speakers#lieser">Wolf Lieser</a></td>
 							<td></td>
 						</tr>
 						<tr height="50" class="main-block">
@@ -122,17 +122,17 @@
 
 						<tr height="67" class="main-block">
 							<td class="time">14:00</td>
-							<td class="speaker"><a href="speaker#gohl">Jarii van Gohl</a></td>
+							<td class="speaker"><a href="speakers#gohl">Jarii van Gohl</a></td>
 							<td></td>
 						</tr>
 						<tr height="66">
 							<td></td>
-							<td class="speaker"><a href="speaker#shalom">Gabriel Shalom</a></td>
+							<td class="speaker"><a href="speakers#shalom">Gabriel Shalom</a></td>
 							<td></td>
 						</tr>
 						<tr height="67">
 							<td></td>
-							<td class="speaker"><a href="speaker#geist">Moritz Simon Geist</a></td>
+							<td class="speaker"><a href="speakers#geist">Moritz Simon Geist</a></td>
 							<td></td>
 						</tr>
 						<!-- <tr height="50">
@@ -147,7 +147,7 @@
 						</tr>
 						<tr height="50" class="main-block">
 							<td class="time">16:30</td>
-							<td class="speaker"><a href="speaker#aparede">A Parede</a></td>
+							<td class="speaker"><a href="speakers#aparede">A Parede</a></td>
 							<td></td>
 						</tr>
 						<tr height="50">
@@ -157,12 +157,12 @@
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#blas">Zach Blas</a></td>
+							<td class="speaker"><a href="speakers#blas">Zach Blas</a></td>
 							<td></td>
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#allen">Jamie Allen</a></td>
+							<td class="speaker"><a href="speakers#allen">Jamie Allen</a></td>
 							<td></td>
 						</tr>
 						<tr height="50" class="main-block">
@@ -184,13 +184,13 @@
 						<tr height="200" class="main-block">
 							<td class="time">20:00</td>
 							<td colspan="2" style="height:80px" class="evening">Sound Performances
-								<p>@ LEAP</br>Leipziger Str. 63<br/>10117 Berlin</p>
+								<p>@ <a href="http://www.leapknecht.de" taget="_blank">LEAP</a></br>Leipziger Str. 63<br/>10117 Berlin</p>
 							</td>
 						</tr>
 						<tr height="200" class="main-block">
 							<td class="time">22:00</td>
 							<td colspan="2" style="height:80px" class="afterparty">Afterparty
-								<p>@ LEAP</br>Leipziger Str. 63<br/>10117 Berlin</p>
+								<p>@ <a href="http://www.leapknecht.de" taget="_blank">LEAP</a></br>Leipziger Str. 63<br/>10117 Berlin</p>
 							</td>
 						</tr>
 					</table>
@@ -218,12 +218,12 @@
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#cyborgs">Cyborgs e.V.</a><br/></td>
+							<td class="speaker"><a href="speakers#cyborgs">Cyborgs e.V.</a><br/></td>
 							<td></td>
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#beanotherlab">BeAnotherLab</a></td>
+							<td class="speaker"><a href="speakers#beanotherlab">BeAnotherLab</a></td>
 							<td></td>
 						</tr>
 						<tr height="50" class="main-block">
@@ -233,7 +233,7 @@
 						</tr>
 						<tr height="50" class="main-block">
 							<td class="time">12:30</td>
-							<td class="speaker"><a href="speaker#mirti">Stefano Mirti</a></td>
+							<td class="speaker"><a href="speakers#mirti">Stefano Mirti</a></td>
 							<td class="orga">job corner</td>
 						</tr>
 						<tr height="100" class="main-block">
@@ -243,17 +243,17 @@
 
 						<tr height="50" class="main-block">
 							<td class="time">14:00</td>
-							<td class="speaker"><a href="speaker#franco">Anaisa Franco</a></td>
+							<td class="speaker"><a href="speakers#franco">Anaisa Franco</a></td>
 							<td></td>
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#parmar">Robin Parmar</a></td>
+							<td class="speaker"><a href="speakers#parmar">Robin Parmar</a></td>
 							<td></td>
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speaker#bobinski">K. Smigla-Bobinski</a></td>
+							<td class="speaker"><a href="speakers#bobinski">K. Smigla-Bobinski</a></td>
 							<td></td>
 						</tr>
 						<tr height="50" class="main-block">
@@ -263,17 +263,17 @@
 						</tr>
 						<tr height="67" class="main-block">
 							<td class="time">16:00</td>
-							<td class="speaker"><a href="speaker#schmidt">Karsten Schmidt</a></td>
+							<td class="speaker"><a href="speakers#schmidt">Karsten Schmidt</a></td>
 							<td></td>
 						</tr>
 						<tr height="66">
 							<td></td>
-							<td class="speaker"><a href="speaker#sauter">Joachim Sauter</a></td>
+							<td class="speaker"><a href="speakers#sauter">Joachim Sauter</a></td>
 							<td></td>
 						</tr>
 						<tr height="67">
 							<td></td>
-							<td class="speaker"><a href="speaker#random">Random International</a></td>
+							<td class="speaker"><a href="speakers#random">Random International</a></td>
 							<td></td>
 						</tr>
 						<tr height="50" class="main-block">
