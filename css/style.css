@@ -49,7 +49,7 @@ img.portrait {	margin-top: 5px; }
 /* SCHEDULE PAGE */
 #schedule h2 {font-size: 18px; text-transform: uppercase; margin-bottom: 2em; color: #007a80;} 
 #schedule p {font-size: 16px}
-#schedule td { padding: 0px 10px; text-align: center; font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size:14px; text-transform: uppercase; letter-spacing: 2px}
+#schedule td { color: black; padding: 0px 10px; text-align: center; font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size:14px; text-transform: uppercase; letter-spacing: 2px}
 #schedule th {text-align: center; font-family: "Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size:14px; text-transform: uppercase; padding-bottom: 10px;}
 #schedule .workshops {background-color: #b8afce;}
 #schedule .discussion { background-color: #311f7a; color: white; }
@@ -59,9 +59,10 @@ img.portrait {	margin-top: 5px; }
 #schedule .evening { background-color: #8eb8ba; }
 #schedule .afterparty { background-color: #007a80; color: white; }
 #schedule .orga { background-color: #bfc0bf; }
-#schedule tr.main-block {border-top: 1px solid black;}
-#schedule p {font-family:"Century Schoolbook Regular", 'Century Schoolbook', serif; font-weight:normal; font-style:normal; font-size: 13px; margin-top: 2em;}
+#schedule tr.main-block {border-top: 1px solid black; }
+#schedule table p {font-family:"Century Schoolbook Regular", 'Century Schoolbook', serif; font-weight:normal; font-style:normal; font-size: 13px; margin-top: 2em;}
 #schedule em { font-family: "Apercu Regular", Calibri, sans-serif; font-weight:bold; text-decoration: none;}
+#schedule a {color: black; }
 
 
 /* NAVIGATION */
