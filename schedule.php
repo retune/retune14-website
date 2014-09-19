@@ -197,6 +197,7 @@
 								<a href="http://isddsk.com" taget="_blank">Daisuke Ishida</a><br/>
 								<a href="http://www.yutakamakino.com" taget="_blank">Yutaka Makino</a>
 								<p>@ <a href="http://www.leapknecht.de" taget="_blank">LEAP</a></br>Leipziger Str. 63<br/>10117 Berlin</p>
+								<p style="letter-spacing: 1px;"><a href="https://www.facebook.com/events/1471853633082739" target="_blank">Facebook Event</a></p>
 							</td>
 						</tr>
 						<tr height="200" class="main-block">
