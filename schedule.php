@@ -190,9 +190,12 @@
 
 						<tr height="250" class="main-block">
 							<td class="time">20:00</td>
-							<td colspan="2" style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">Sound Performances</span>
-								<p><em>Performers</em><br/>
-								<a href="http://christinesunkim.com">Christine Sun Kim</a>, TBA, TBA
+							<td colspan="2" style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">BodyControlled
+#7 &mdash; Echo</span>
+								<p><em>Performences by</em><br/>
+								<a href="http://christinesunkim.com" target="_blank">Christine Sun Kim</a><br/>
+								<a href="http://isddsk.com" taget="_blank">Daisuke Ishida</a><br/>
+								<a href="http://www.yutakamakino.com" taget="_blank">Yutaka Makino</a>
 								<p>@ <a href="http://www.leapknecht.de" taget="_blank">LEAP</a></br>Leipziger Str. 63<br/>10117 Berlin</p>
 							</td>
 						</tr>
