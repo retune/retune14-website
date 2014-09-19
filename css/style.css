@@ -64,6 +64,7 @@ img.portrait {	margin-top: 5px; }
 #schedule table p {font-family:"Century Schoolbook Regular", 'Century Schoolbook', serif; font-weight:normal; font-style:normal; font-size: 13px; margin-top: 2em;}
 #schedule em { font-family: "Apercu Regular", Calibri, sans-serif; font-weight:bold; text-decoration: none;}
 #schedule a {color: black; }
+#schedule h1 {color: black;}
 
 
 /* NAVIGATION */
