@@ -4,7 +4,7 @@
 	    	<div class="row" style="height: auto;">
 	    		<h1>schedule</h1>
 	    		<div class="col-md-6 col-md-offset-3" style="padding-bottom: 50px;">
-					<p style="font-size: 14px;">We have done some changes to the program this year. We have a second stage that we want to use to kind of mirror the main stage. During the breaks of the talks on the main stage, we'll gather the speakers of the previous slots around one table and discuss their topics in more detail. By moving this to a different stage, we hope to get everyone out of passive listening mode into active mode again. And of course this is also the time to grab a coffee and a snack at the bar.</p>
+					<p style="font-size: 14px;">We have done some changes to the program this year. We have a second stage that we want to use to mirror the main stage. During the breaks of the talks, we gather the speakers of the previous slots around one table and discuss their topics in more detail. By moving this to a different stage, we hope to get everyone out of passive listening mode into active mode again. And of course this is also the time to grab a coffee and a snack at the bar.</p>
 					<p style="font-size: 14px;">During the lunch break we will provide some great food directly in the venue for you to purchase.</p>
 					<p style="font-size: 14px;">The evening events on Friday and Saturday are open to the public*. So you can and should bring all your friends!</p>
 					<p style="font-size: 10px;">*) People without retune ticket need to pay a small fee.</p>
@@ -27,7 +27,7 @@
 
 						<tr height="700" class="main-block">
 							<td class="time">10:00</td>
-							<td class="workshops"><a href="workshops">Workshops</a>
+							<td class="workshops"><a href="workshops"><span style="font-weight:bold; font-size: 16px;">Workshops</span></a>
 								<p>
 									<a href="workshops#interfaces">Prototyping Interfaces</a><br/>
 									<a href="workshops#vvvv">vvvv</a><br/>
