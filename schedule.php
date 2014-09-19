@@ -49,17 +49,22 @@
 							<td class="time">18:00</td>
 							<td class="orga">Welcome & Introduction</td>
 						</tr>
-						<tr height="50">
+						<tr height="66">
 							<td></td>
 							<td class="speaker"><a href="speakers#wang">Alice Wang</a></td>
 						</tr>
-						<tr height="50">
+						<tr height="66">
 							<td></td>
 							<td class="speaker"><a href="speakers#uva">United Visual Artists</a></td>
 						</tr>
 
+						<tr height="17">
+							<td></td>
+							<td></td>
+						</tr>
+
 						<tr height="400" class="main-block">
-							<td class="time">19:30</td>
+							<td class="time">20:00</td>
 							<td style="height:80px" class="evening"><span style="font-weight:bold; font-size: 16px;">Get Together</span>
 								<p>Music + Drinks</p>
 								<p><em>Presentation</em><br/>
