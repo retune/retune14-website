@@ -32,12 +32,16 @@ $("#smigla-bobinski_small").backstretch([
 
 $("#franco_image").backstretch([
   "img/speakers/franco_01.jpg",
-  "img/speakers/franco_02.jpg"
+  "img/speakers/franco_02.jpg",
+  "img/speakers/franco_03.jpg",
+  "img/speakers/franco_04.jpg"
 ], { fade: 750, duration: d });
 
 $("#franco_small").backstretch([
   "img/speakers/franco_01.jpg",
-  "img/speakers/franco_02.jpg"
+  "img/speakers/franco_02.jpg",
+  "img/speakers/franco_03.jpg",
+  "img/speakers/franco_04.jpg"
 ], { fade: 750, duration: d });
 
 $("#sauter_image").backstretch([
