@@ -10,6 +10,7 @@ Located in a vibrant neighbourhood, close to some of the best known Berlin hotsp
 					<br/><img class="img-responsive" src="img/glashaus_01.jpg" /><br/>
 					<img class="img-responsive" src="img/glashaus_02.jpg" /><br/>
 					<img class="img-responsive" src="img/glashaus_03.jpg" /><br/>
+					<img class="img-responsive" src="img/arena-overview.jpg" /><br/>
 					<img class="img-responsive" src="img/map_glashaus.jpg" />
 
 				</div> <!-- /speaker_info -->
