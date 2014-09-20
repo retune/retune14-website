@@ -272,6 +272,20 @@ $("#beanotherlab_small").backstretch([
   "img/speakers/beanotherlab_06.jpg"
 ], { fade: 750, duration: d });
 
+$("#dubois_image").backstretch([
+  "img/speakers/dubois_01.jpg",
+  "img/speakers/dubois_02.jpg",
+  "img/speakers/dubois_03.jpg",
+  "img/speakers/dubois_04.jpg"
+], { fade: 750, duration: d });
+
+$("#dubois_small").backstretch([
+  "img/speakers/dubois_01.jpg",
+  "img/speakers/dubois_02.jpg",
+  "img/speakers/dubois_03.jpg",
+  "img/speakers/dubois_04.jpg"
+], { fade: 750, duration: d });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        

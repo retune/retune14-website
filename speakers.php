@@ -13,6 +13,7 @@
 						<li><a href="#beanotherlab">BeAnotherLab</a></li>
 						<li><a href="#blas">Zach Blas</a></li>
 						<li><a href="#cyborgs">Cyborgs e.V.</a></li>
+						<li><a href="#dubois">Vicent Dubois</a></li>
 						<li><a href="#franco">Anaisa Franco</a></li>
 						<li><a href="#geist">Moritz Simon Geist</a></li>
 						<li><a href="#gohl">Jarii van Gohl</a></li>
@@ -165,6 +166,33 @@ challenges the societal norms and standards that make up our conception of human
 					<nav class="nav_images <?php if($count%2 == 0) {echo "left";} ?>">
 						<a href="javascript:previousImage('cyborgs')"><span class="glyphicon glyphicon-chevron-left"></span></a>
 						<a href="javascript:nextImage('cyborgs')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+			</div> <!-- /row -->
+
+			<!-- 
+				VINCENT DUBOIS
+			 -->
+			<?php $count++; ?>
+			<div class="row" id="dubois"> 
+				<div class="speaker_info col-md-6 col-xs-12 <?php if($count%2 == 0) {echo "col-md-push-6";} ?>">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+						<h2>Vincent Dubois</h2>
+						<p>Vincent Dubois, born in 1991, is a french interactions designer. His work is focused on social interactions and users behaviors. he has a Master in Media-Design at Geneva University of Art and Design, in Switzerland.</p>
+						<p>As part of his research, he developed an interest about how personal data, digital identities and social interactions affect us all in our daily use of technology. Influenced by the open-source movement, he is interested in designing tools to interact with the global surveillance, to better understand it. One of his project, called <a href="http://un-defined.io" target="_blank">Undefined</a>, proposes to control the transmission of your personal data, to try to understand how algorithms works. This allows a greater user accountability behavior towards digital services.</p>
+						<img class="portrait img-circle" src="img/speakers/dubois_portrait.jpg" />
+						<div class="website"><a href="http://dubois.cc" target="_blank">vincentdubois.fr</a>
+							
+						</div>
+						<div id="dubois_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->
+
+				<div id="dubois_image" class="speaker_images col-md-6 hidden-sm hidden-xs <?php if($count%2 == 0) {echo "col-md-pull-6";} ?>">
+					<nav class="nav_images <?php if($count%2 == 0) {echo "left";} ?>">
+						<a href="javascript:previousImage('dubois')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('dubois')"><span class="glyphicon glyphicon-chevron-right"></span></a>
 						images
 					</nav>
 				</div> <!-- /speaker_images -->
