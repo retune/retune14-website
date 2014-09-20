@@ -182,7 +182,7 @@ challenges the societal norms and standards that make up our conception of human
 						<p>Vincent Dubois, born in 1991, is a french interactions designer. His work is focused on social interactions and users behaviors. he has a Master in Media-Design at Geneva University of Art and Design, in Switzerland.</p>
 						<p>As part of his research, he developed an interest about how personal data, digital identities and social interactions affect us all in our daily use of technology. Influenced by the open-source movement, he is interested in designing tools to interact with the global surveillance, to better understand it. One of his project, called <a href="http://un-defined.io" target="_blank">Undefined</a>, proposes to control the transmission of your personal data, to try to understand how algorithms works. This allows a greater user accountability behavior towards digital services.</p>
 						<img class="portrait img-circle" src="img/speakers/dubois_portrait.jpg" />
-						<div class="website"><a href="http://dubois.cc" target="_blank">vincentdubois.fr</a>
+						<div class="website"><a href="http://vincentdubois.fr/en/" target="_blank">vincentdubois.fr</a>
 							
 						</div>
 						<div id="dubois_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
