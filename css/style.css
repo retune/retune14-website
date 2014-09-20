@@ -47,7 +47,7 @@ img.portrait {	margin-top: 5px; }
 .text-page .col-md-6 {padding-bottom: 100px;}
 
 /* SCHEDULE PAGE */
-#schedule h2 {font-size: 18px; text-transform: uppercase; margin-bottom: 2em; color: #007a80;} 
+#schedule h2 {font-size: 21px; text-transform: uppercase; margin-bottom: 2em; color: #007a80; text-align: center;} 
 #schedule p {font-size: 16px}
 #schedule td { color: black; padding: 0px 10px; text-align: center; font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size:14px; text-transform: uppercase; letter-spacing: 2px}
 #schedule th {text-align: center; font-family: "Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size:14px; text-transform: uppercase; padding-bottom: 10px;}
@@ -65,6 +65,9 @@ img.portrait {	margin-top: 5px; }
 #schedule em { font-family: "Apercu Regular", Calibri, sans-serif; font-weight:bold; text-decoration: none;}
 #schedule a {color: black; }
 #schedule h1 {color: black;}
+#schedule .schedule-notes { font-family:"Apercu Regular", Apercu, Calibri, sans-serif; font-weight:normal; font-style:normal; border: 3px solid black; padding: 10px; margin-top: 50px;}
+#schedule .schedule-notes p {font-size: 14px;}
+#schedule h3 { font-family:"Apercu Regular", Calibri, sans-serif; font-weight:bold; font-style:normal; font-size: 16px; line-height: 1.5em; margin-bottom: 0.5em; margin-top: 0.5em;}
 
 
 /* NAVIGATION */

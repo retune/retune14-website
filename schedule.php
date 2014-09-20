@@ -3,12 +3,7 @@
     	<div class="container text-page" style="background-color: white; padding-bottom: 200px" id="schedule">				
 	    	<div class="row" style="height: auto;">
 	    		<h1>schedule</h1>
-	    		<div class="col-md-6 col-md-offset-3" style="padding-bottom: 50px;">
-					<p style="font-size: 14px;">We have done some changes to the program this year. We have a second stage that we want to use to mirror the main stage. During the breaks of the talks, we gather the speakers of the previous slots around one table and discuss their topics in more detail. By moving this to a different stage, we hope to get everyone out of passive listening mode into active mode again. And of course this is also the time to grab a coffee and a snack at the bar.</p>
-					<p style="font-size: 14px;">During the lunch break we will provide some great food directly in the venue for you to purchase.</p>
-					<p style="font-size: 14px;">The evening events on Friday and Saturday are open to the public*. So you can and should bring all your friends!</p>
-					<p style="font-size: 10px;">*) People without retune ticket need to pay a small fee.</p>
-				</div> 
+	    		
 	    	</div>
 
 	    	<div class="row">
@@ -87,14 +82,16 @@
 				<div class="col-md-4" style="padding-bottom: 200px">
 					<h2>Saturday &ndash; 27.09.2014</h2>
 					<table style="width: 100%;">
+						
+
+						<tr height="50">
+							<td colspan="3"></td>
+						</tr>
+
 						<tr>
 							<th width="20%"></th>
 							<th width="40%">main stage</td>
 							<th>second stage</th>
-						</tr>
-
-						<tr height="50">
-							<td colspan="3"></td>
 						</tr>
 
 						<tr height="50" class="main-block">
@@ -216,16 +213,18 @@
 				<div class="col-md-4" style="padding-bottom: 200px">
 					<h2>Sunday &ndash; 28.09.2014</h2>
 					<table style="width: 100%;">
-						<tr>
-							<th width="20%"></th>
-							<th width="40%">main Stage</td>
-							<th>second stage</th>
-						</tr>
+						
 
 						<tr height="100">
 							<td></td>
 							<td></td>
 							<td></td>
+						</tr>
+
+						<tr>
+							<th width="20%"></th>
+							<th width="40%">main Stage</td>
+							<th>second stage</th>
 						</tr>
 
 						<tr height="50" class="main-block">
@@ -298,8 +297,18 @@
 							<td></td>
 							<td class="afterparty">Feedback & Goodbye</td>
 						</tr>
-						
 					</table>
+
+					<div class="schedule-notes">
+					<h3>NOTES</h3>
+					<p>We have done some changes to the program this year. We have a second stage that we want to use to mirror the main stage. During the breaks of the talks, we gather the speakers of the previous slots around one table and discuss their topics in more detail. By moving this to a different stage, we hope to get everyone out of passive listening mode into active mode again. And of course this is also the time to grab a coffee and a snack at the bar.</p>
+					<p>During the lunch break we will provide some great food directly in the venue for you to purchase.</p>
+					<p>The evening events on Friday and Saturday are open to the public*. So you can and should bring all your friends!</p>
+					<p style="font-size:12px;">*) People without retune ticket need to pay a small fee.</p>
+					</div>
+				</div> 
+
+
 				</div>				
 			</div> <!-- /row -->
 
