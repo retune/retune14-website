@@ -227,30 +227,30 @@
 							<th>second stage</th>
 						</tr>
 
-						<tr height="50" class="main-block">
+						<tr height="45" class="main-block">
 							<td class="time">10:30</td>
 							<td class="speaker">Susa Schmid</td>
 							<td></td>
 						</tr>
-						<tr height="50">
+						<tr height="45">
 							<td></td>
 							<td class="speaker"><a href="speakers#cyborgs">Cyborgs e.V.</a><br/></td>
 							<td></td>
 						</tr>
-						<tr height="50">
+						<tr height="45">
 							<td></td>
 							<td class="speaker"><a href="speakers#beanotherlab">BeAnotherLab</a></td>
 							<td></td>
 						</tr>
 						<tr height="50" class="main-block">
-							<td class="time">12:00</td>
+							<td class="time">11:50</td>
 							<td></td>
 							<td class="discussion">Discussion</td>
 						</tr>
-						<tr height="50" class="main-block">
-							<td class="time">12:30</td>
+						<tr height="67" class="main-block">
+							<td class="time">11:20</td>
 							<td class="speaker"><a href="speakers#mirti">Stefano Mirti</a></td>
-							<td class="orga">job corner</td>
+							<td></td>
 						</tr>
 						<tr height="100" class="main-block">
 							<td class="time">13:00</td>
@@ -259,12 +259,12 @@
 
 						<tr height="50" class="main-block">
 							<td class="time">14:00</td>
-							<td class="speaker"><a href="speakers#franco">Anaisa Franco</a></td>
+							<td class="speaker"><a href="speakers#parmar">Robin Parmar</a></td>
 							<td></td>
 						</tr>
 						<tr height="50">
 							<td></td>
-							<td class="speaker"><a href="speakers#parmar">Robin Parmar</a></td>
+							<td class="speaker"><a href="speakers#franco">Anaisa Franco</a></td>
 							<td></td>
 						</tr>
 						<tr height="50">
