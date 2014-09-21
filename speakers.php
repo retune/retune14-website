@@ -23,6 +23,7 @@
 						<li><a href="#quaranta">Domenico Quaranta</a></li>
 						<li><a href="#random">Random International</a></li>
 						<li><a href="#sauter">Joachim Sauter</a></li>
+						<li><a href="#schmid">Susa Schmid</a></li>
 						<li><a href="#schmidt">Karsten Schmidt</a></li>
 						<li><a href="#shalom">Gabriel Shalom</a></li>
 						<li><a href="#smigla-bobinski" style="letter-spacing:1px;">Karina Smigla-Bobinski</a></li>
@@ -426,6 +427,35 @@ challenges the societal norms and standards that make up our conception of human
 				</div> <!-- /speaker_images -->		
 			</div> <!-- /row -->
 
+			<!-- 
+				SUSA SCHMID
+			 -->
+			<?php $count++; ?>
+			<div class="row" id="schmid"> 
+				<div class="speaker_info col-md-6 col-xs-12 <?php if($count%2 == 0) {echo "col-md-push-6";} ?>">
+					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+						<h2>Susa Schmid</h2>
+						<p>Susa's interest is to visualize the gaze by using technologies like eye-tracking systems in a new way: rethinking concepts of vision and gaze, how we see the world and how we live in it, to enable new meaningful aesthetic experiences.</p>
+						<p>Susa is an Berlin based artist and designer working on self initiated art projects and for the creative industry. She studied at the University of Applied Arts in Vienna and graduated from the Digital Media Class at the University of the Arts in Berlin. She has an additional background in psychology and pedagogy.
+						</p>
+						<img class="portrait img-circle" src="img/speakers/schmid_portrait.jpg" />
+						<div class="website"><a href="http://susaschmid.de" target="_blank">susaschmid.de</a><br/>
+							<a href="http://blickskulpturen.net" target="_blank">blickskulpturen.net</a>
+						</div>
+
+						<div id="schmid_small" style="height:400px; margin-top:20px;" class="visible-sm visible-xs img-responsive" style="z-index:0;"></div>
+					</div> <!-- /description -->
+				</div> <!-- /speaker_info -->	
+
+				<div id="schmid_image" class="speaker_images col-md-6 hidden-sm hidden-xs <?php if($count%2 == 0) {echo "col-md-pull-6";} ?>">			
+					<nav class="nav_images <?php if($count%2 == 0) {echo "left";} ?>">
+						<a href="javascript:previousImage('schmid')"><span class="glyphicon glyphicon-chevron-left"></span></a>
+						<a href="javascript:nextImage('schmid')"><span class="glyphicon glyphicon-chevron-right"></span></a>
+						images
+					</nav>
+				</div> <!-- /speaker_images -->
+						
+			</div> <!-- /row -->
 			
 			<!-- 
 				KARSTEN SCHMIDT

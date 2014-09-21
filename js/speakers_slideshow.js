@@ -290,6 +290,26 @@ $("#dubois_small").backstretch([
   "img/speakers/dubois_04.jpg"
 ], { fade: 750, duration: d });
 
+$("#schmid_image").backstretch([
+  "img/speakers/schmid_01.jpg",
+  "img/speakers/schmid_02.jpg",
+  "img/speakers/schmid_03.jpg",
+  "img/speakers/schmid_04.jpg",
+  "img/speakers/schmid_05.jpg",
+  "img/speakers/schmid_06.jpg",
+  "img/speakers/schmid_07.jpg"
+], { fade: 750, duration: d });
+
+$("#schmid_small").backstretch([
+  "img/speakers/schmid_01.jpg",
+  "img/speakers/schmid_02.jpg",
+  "img/speakers/schmid_03.jpg",
+  "img/speakers/schmid_04.jpg",
+  "img/speakers/schmid_05.jpg",
+  "img/speakers/schmid_06.jpg",
+  "img/speakers/schmid_07.jpg"
+], { fade: 750, duration: d });
+
 // pre-load images
 if(document.images){
   // var image1 = new Image()        

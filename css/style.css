@@ -74,7 +74,7 @@ img.portrait {	margin-top: 5px; }
 .nav_images { position: absolute; top: 90px; right: 70px; z-index: 3; text-transform: uppercase; color: #6400e6; font-size: 16px; }
 .nav_images a { font-size: 14px; }
 .nav_images.left { left: 70px; }
-#middle_nav { z-index: 1; position: fixed; top: 150px; left: 0; right: 0; height: 0; text-align: center; }
+#middle_nav { z-index: 1; position: fixed; top: 130px; left: 0; right: 0; height: 0; text-align: center; }
 #middle_nav nav { display: inline-block; z-index: 0; }
 #middle_nav ul.nav {list-style-type: none; padding-left: 0; text-transform: uppercase; }
 #middle_nav ul.nav a {font-family:"Apercu Regular", Calibri, sans-serif; font-weight:normal; font-style:normal; font-size: 18px; letter-spacing: 3px; padding:0;}
