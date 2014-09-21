@@ -248,7 +248,7 @@
 							<td class="discussion">Discussion</td>
 						</tr>
 						<tr height="67" class="main-block">
-							<td class="time">11:20</td>
+							<td class="time">12:20</td>
 							<td class="speaker"><a href="speakers#mirti">Stefano Mirti</a></td>
 							<td></td>
 						</tr>
