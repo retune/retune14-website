@@ -20,6 +20,9 @@
 					<a href="http://wetransfer.com" target="_blank"><img src="img/wetransfer.png" alt="wetransfer"/></a><br/>
 					<a href="http://cloud-film.tv" target="_blank"><img src="img/cloud.png" alt="cloud" /></a>
 					
+					<h1>media partners</h1>
+					<a href="http://www.artconnectberlin.com" target="_blank"><img src="img/artconnect.png" alt="artconnect berlin"/></a>
+
 					<h1>brand partnerships</h1>
 					<a href="http://www.cromatics.de" target="_blank"><img src="img/CROMATICS.png" alt="CROMATICS Kreativagentur – Wir entwickeln Relationship Playgrounds für die intensive Beziehung zwischen Menschen und Marken"/></a>
 
