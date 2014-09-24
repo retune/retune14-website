@@ -31,7 +31,7 @@
 		<meta property='og:url' content='http://retune.de/2014/'/>
 		<meta property='og:site_name' content='retune. 2014'/>
 		<meta property='fb:admins' content='1443104249'/>
-		<meta property='og:image' content='http://retune.de/2014/img/og-image.jpg'/>
+		<meta property='og:image' content='http://retune.de/2014/img/og-image_new.jpg'/>
 
         <script src="js/jquery-1.9.1.min.js"></script>
         <script src="js/jquery.lettering-0.6.1.min.js"></script>
