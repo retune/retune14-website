@@ -107,7 +107,7 @@
 	    	<div class="row" id="glemmer">
 				<div class="workshop_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
-						<h2>glemmer</h2>					
+						<h2>glemmer<br/><span style="color:red;">CANCELED!</span></h2>					
 						<h4>by Felix Hardmood Beck and Simon Schiessl<br/>1 day | 26.09.2014, 10:00 – 16:00<br/>30€ (including material, student: 24€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
 						<p>Glemmer is a small, battery powered programmable light module. There are 18446744073709551616 possibilities to light up 64 red glowing LEDs and even more possibilities to design something with it. An integrated microcontroller can be programmed via Arduino or Processing. Glemmer can be used for battery-powered New Media accessories, fashion gimmickry or small electronic intervention. Every participant will be supplied with hard- and software components to build their own take-away and out-of-the-box working Glemmer module.</p>
 						<p>Glemmer's size (width, length, height): 30.2 mm x 30.2 mm x 13.7 mm</p>
