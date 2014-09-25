@@ -72,7 +72,7 @@
 	    	<div class="row" id="vvvv">
 				<div class="workshop_info col-md-6 col-xs-12">
 					<div class="description col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0" style="padding-bottom:100px;">
-						<h2>vvvv<br/><span style="color:red;">CANCELED!</span></h2>					
+						<h2>vvvv<br/><span style="color:red;">BOOKED OUT!</span></h2>					
 						<h4>by Anton and Joreg<br/>1 day | 26.09.2014, 10:00 – 16:00<br/>30€ (student: 24€) – <a href="http://retune.de/2014/tickets#tito-register-form">SIGN UP</a></h4>
 						<p>In this workshop we will give you an easy introduction to vvvv by showing you how to use and create GPU­-based image effects, mixers and animations.</p>
 						<p>Ever dreamed to have the layered, masked and full­of­effects power of Photoshop or After Effects but in real­time? Are you doing live visual performances, creating animations, building interactive exhibits or just want to start using vvvv? This workshop is for you.</p>
