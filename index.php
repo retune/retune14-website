@@ -1,5 +1,5 @@
 <?php require_once('head.php'); ?> 
-	
+		
     	<div class="container full-width-container">				
 	    	<div class="row" id="start">
 	    		<div class="col-lg-1 visible-lg" style="background-color:white;"></div>
@@ -46,7 +46,7 @@
 					<a href="http://www.beyondbiennale.nl/discovery%20festival/home/" target="_blank"><img src="img/discovery.png" alt="discovery festival amsterdam"/></a>
 				</div>
 			</div>
-
+	<a href="https://www.flickr.com/photos/retuneconference/sets/72157648201231742/" target="_blank"><img src="img/photo-badge.png" style="position: absolute; top: 55px; right: 60px;" /></a>
 		</div> <!-- /container -->
 
 <?php require_once('footer.php'); ?> 
